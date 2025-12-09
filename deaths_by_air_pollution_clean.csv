@@ -1,0 +1,390 @@
+
+location,year,sex,cause_of_death_or_injury,measure,value,lower_bound,upper_bound
+Global,2021,Both,All causes,Percent of Deaths attributable,11.90128546109081,0.1005502004157047,0.1378865048562367
+Global,2021,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of Deaths attributable,6.779312555637371,0.0363130764376831,0.0942815549214844
+Global,2021,Both,Diarrheal diseases,Percent of Deaths attributable,0.57443508030302,0.0036246451785462,0.0087247380583849
+Global,2021,Both,Lower respiratory infections,Percent of total deaths,3.21624063762467,0.0294057603672437,0.0344357061268896
+Global,2021,Both,Lower respiratory infections,Percent of Deaths attributable,29.766049438790134,0.0574314720582923,0.4775632171188436
+Global,2021,Both,Upper respiratory infections,Percent of Deaths attributable,0.51796692108362,0.0023384773862078,0.0075788923921292
+Global,2021,Both,Otitis media,Percent of Deaths attributable,0.33990142040755,0.0020070872927886,0.0059361564015739
+Global,2021,Both,Meningitis,Percent of Deaths attributable,1.6064660619505,0.0134555553708939,0.0202785180609231
+Global,2021,Both,Encephalitis,Percent of Deaths attributable,0.3057810174895999,0.0024589017206166,0.0036950625646022
+Global,2021,Both,Neonatal disorders,Percent of total deaths,2.6970572025482897,0.0235162389855311,0.0305386178732227
+Global,2021,Both,Neonatal disorders,Percent of Deaths attributable,27.15124279724477,0.2525092642511621,0.2922772106015664
+Global,2021,Both,Neonatal preterm birth,Percent of Deaths attributable,30.79430585070973,0.2865061237531153,0.3305950294348707
+Global,2021,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of Deaths attributable,25.74961957387455,0.2336116463873082,0.2807005326600136
+Global,2021,Both,Neonatal sepsis and other neonatal infections,Percent of Deaths attributable,23.223274032458,0.2159890465526973,0.2478454767706725
+Global,2021,Both,Hemolytic disease and other neonatal jaundice,Percent of Deaths attributable,22.36582979927783,0.2025983312112576,0.2475514336064654
+Global,2021,Both,Other neonatal disorders,Percent of Deaths attributable,23.6220025526234,0.2142729237357156,0.2556308100754993
+Global,2021,Both,Non-communicable diseases,Percent of Deaths attributable,15.8106304250139,0.1337192988275234,0.1815227476966331
+Global,2021,Both,Neoplasms,Percent of total deaths,14.56887521596156,0.1365427865775862,0.1528194029557499
+Global,2021,Both,Neoplasms,Percent of Deaths attributable,3.78340519492762,0.0245409948456047,0.0525390700492055
+Global,2021,Both,"Tracheal, bronchus, and lung cancer",Percent of total deaths,2.97068939314362,0.0271437458145413,0.0319817692033936
+Global,2021,Both,"Tracheal, bronchus, and lung cancer",Percent of Deaths attributable,18.55701427355609,0.1192725175564395,0.2561714151071481
+Global,2021,Both,Cardiovascular diseases,Percent of Deaths attributable,23.08929895928162,0.1909252985483987,0.2721071150150531
+Global,2021,Both,Ischemic heart disease,Percent of total deaths,13.248956049832469,0.1226930402784788,0.1386871801445819
+Global,2021,Both,Ischemic heart disease,Percent of Deaths attributable,27.72566775034372,0.2140929745958562,0.3411483842353127
+Global,2021,Both,Stroke,Percent of total deaths,10.684699180340507,0.0980551256522696,0.1129700239003314
+Global,2021,Both,Stroke,Percent of Deaths attributable,27.43695028118214,0.2190511540113771,0.3397221610931235
+Global,2021,Both,Ischemic stroke,Percent of total deaths,5.29144429005706,0.0478186502781711,0.0563623116837597
+Global,2021,Both,Ischemic stroke,Percent of Deaths attributable,25.21958346234467,0.2017617104481311,0.3145229703178339
+Global,2021,Both,Intracerebral hemorrhage,Percent of total deaths,4.87344879659323,0.0448629699393069,0.0518893231534053
+Global,2021,Both,Intracerebral hemorrhage,Percent of Deaths attributable,30.0965489798414,0.2375351043126637,0.3686204926934363
+Global,2021,Both,Subarachnoid hemorrhage,Percent of Deaths attributable,25.012806997133158,0.1958708612119793,0.3130571119838624
+Global,2021,Both,Chronic respiratory diseases,Percent of total deaths,6.503773578829921,0.0594918439395508,0.0709310394051226
+Global,2021,Both,Chronic respiratory diseases,Percent of Deaths attributable,40.37187594553155,0.326640076579739,0.481994950234187
+Global,2021,Both,Chronic obstructive pulmonary disease,Percent of total deaths,5.48063033418078,0.0496069588817397,0.0592078967276133
+Global,2021,Both,Chronic obstructive pulmonary disease,Percent of Deaths attributable,47.906157524506845,0.3919902416675695,0.5683980514000804
+Global,2021,Both,Digestive diseases,Percent of total deaths,3.70763654579152,0.0341677723371243,0.0400810838684769
+Global,2021,Both,Neurological disorders,Percent of total deaths,3.84175039190635,0.0175257301435006,0.0829208654457034
+Global,2021,Both,Alzheimer's disease and other dementias,Percent of total deaths,2.87663655229674,0.0074612770703532,0.073922648370821
+Global,2021,Both,Diabetes mellitus,Percent of Deaths attributable,17.01456945492967,0.1042526093473813,0.2417772412356455
+Global,2021,Both,Other non-communicable diseases,Percent of Deaths attributable,0.0590383220325699,0.0003133436970912,0.0008579478384713
+Global,2021,Both,Sudden infant death syndrome,Percent of Deaths attributable,2.31515772081947,0.0183097399991866,0.0281579967311287
+Global,2021,Both,Injuries,Percent of total deaths,6.399755390971899,0.0594064060021694,0.0668925333210638
+Global,2021,Both,Unintentional injuries,Percent of total deaths,2.67740645575451,0.0233557980334347,0.0288273827862087
+Global,2021,Both,Respiratory infections and tuberculosis,Percent of total deaths,16.58591590911114,0.1578673656030154,0.1744286369742177
+Global,2021,Both,Respiratory infections and tuberculosis,Percent of Deaths attributable,5.78310676601199,0.010923827158044,0.0951106066614705
+Global,2021,Both,Enteric infections,Percent of Deaths attributable,0.49877136736242,0.0032773569602188,0.0072071269777314
+Global,2021,Both,Other infectious diseases,Percent of Deaths attributable,0.62795217174762,0.0050564869839184,0.0082265006618522
+Global,2021,Both,Maternal and neonatal disorders,Percent of total deaths,2.97860080205148,0.0260740496995181,0.0335900417873023
+Global,2021,Both,Maternal and neonatal disorders,Percent of Deaths attributable,24.57970572039494,0.2277262009126411,0.2644578548742033
+Global,2021,Both,Diabetes and kidney diseases,Percent of total deaths,4.70777714340437,0.0437278239455316,0.0492380138052977
+Global,2021,Both,Diabetes and kidney diseases,Percent of Deaths attributable,8.82486567212472,0.0543414948851965,0.1259606464454805
+Global,2021,Both,Diabetes mellitus type 2,Percent of Deaths attributable,17.52808528440618,0.1073400073654887,0.2490130461181791
+Global,2021,Both,Other COVID-19 pandemic-related outcomes,Percent of total deaths,3.95515327472573,0.0310462997215596,0.0523059423041471
+Global,2020,Both,All causes,Percent of Deaths attributable,12.23084866167895,0.1025745252883634,0.1427470985436553
+Global,2020,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of Deaths attributable,8.215442585739979,0.0452223730888136,0.1130049480685257
+Global,2020,Both,Diarrheal diseases,Percent of Deaths attributable,0.57838663631897,0.0036588171858832,0.0086107709546063
+Global,2020,Both,Lower respiratory infections,Percent of total deaths,3.61274835362395,0.0331125842991559,0.0384444113461579
+Global,2020,Both,Lower respiratory infections,Percent of Deaths attributable,28.90532543339458,0.056922888679839,0.4655465977312802
+Global,2020,Both,Upper respiratory infections,Percent of Deaths attributable,0.5168139145123399,0.0024833401807518,0.0075405448483396
+Global,2020,Both,Otitis media,Percent of Deaths attributable,0.34573824488605,0.0020108794133653,0.0062456335739735
+Global,2020,Both,Meningitis,Percent of Deaths attributable,1.5997013672114702,0.0134927395672731,0.0199575373143328
+Global,2020,Both,Encephalitis,Percent of Deaths attributable,0.30124732309258,0.0024311847503684,0.0036146449661695
+Global,2020,Both,Neonatal disorders,Percent of total deaths,3.0173558204506,0.0265434084578939,0.033778223641666
+Global,2020,Both,Neonatal disorders,Percent of Deaths attributable,26.55872877918517,0.2471049256073835,0.2843053047508176
+Global,2020,Both,Neonatal preterm birth,Percent of Deaths attributable,30.01527280612144,0.2794150388958113,0.3206177847506266
+Global,2020,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of Deaths attributable,25.20190696418798,0.2293868842992612,0.2747100525269623
+Global,2020,Both,Neonatal sepsis and other neonatal infections,Percent of Deaths attributable,22.91093301624068,0.2132969626274323,0.2451913138823567
+Global,2020,Both,Hemolytic disease and other neonatal jaundice,Percent of Deaths attributable,21.73685525161077,0.1969665940107427,0.2380415148141567
+Global,2020,Both,Other neonatal disorders,Percent of Deaths attributable,23.11621293107974,0.2108980238776157,0.2523191515893318
+Global,2020,Both,Non-communicable diseases,Percent of Deaths attributable,15.17807348010996,0.1275436784900019,0.1759692551015995
+Global,2020,Both,Neoplasms,Percent of total deaths,15.38242026317945,0.143766904271943,0.1601197500700019
+Global,2020,Both,Neoplasms,Percent of Deaths attributable,3.6094673309555,0.0231497600436366,0.0499025816379886
+Global,2020,Both,"Tracheal, bronchus, and lung cancer",Percent of total deaths,3.12195442891793,0.0285605475853086,0.0334064016712309
+Global,2020,Both,"Tracheal, bronchus, and lung cancer",Percent of Deaths attributable,17.78450245255984,0.1136710010228671,0.2424699248333459
+Global,2020,Both,Cardiovascular diseases,Percent of Deaths attributable,22.0850555470097,0.1819641573994092,0.2627298162195669
+Global,2020,Both,Ischemic heart disease,Percent of total deaths,14.00486026649367,0.129794927469959,0.1461013800930057
+Global,2020,Both,Ischemic heart disease,Percent of Deaths attributable,26.64230205068917,0.2058044436128073,0.3303966653524193
+Global,2020,Both,Stroke,Percent of total deaths,11.31988436359666,0.1050071748226208,0.1192009876869366
+Global,2020,Both,Stroke,Percent of Deaths attributable,26.218460914538134,0.2070122731319411,0.3273442249072826
+Global,2020,Both,Ischemic stroke,Percent of total deaths,5.59744346213836,0.0505029297497305,0.0592751452370608
+Global,2020,Both,Ischemic stroke,Percent of Deaths attributable,24.04740173434765,0.1900874683785828,0.3020504050251205
+Global,2020,Both,Intracerebral hemorrhage,Percent of total deaths,5.16869289394141,0.0478580145599589,0.0548874630203229
+Global,2020,Both,Intracerebral hemorrhage,Percent of Deaths attributable,28.80473650824602,0.2247761947909525,0.3558027650414579
+Global,2020,Both,Subarachnoid hemorrhage,Percent of Deaths attributable,23.96004487707862,0.1870699139542254,0.3024632168983491
+Global,2020,Both,Chronic respiratory diseases,Percent of total deaths,6.890588817965019,0.063132680895257,0.0744118521570488
+Global,2020,Both,Chronic respiratory diseases,Percent of Deaths attributable,38.90093428737349,0.3137121016544582,0.470164481641425
+Global,2020,Both,Chronic obstructive pulmonary disease,Percent of total deaths,5.7902237271578,0.0528401933870503,0.0620837221654778
+Global,2020,Both,Chronic obstructive pulmonary disease,Percent of Deaths attributable,46.29297783039748,0.3755447200960816,0.5550339163196628
+Global,2020,Both,Digestive diseases,Percent of total deaths,3.9641929739162896,0.0365733648934844,0.0427036633051545
+Global,2020,Both,Neurological disorders,Percent of total deaths,4.00846716788653,0.0183795707197299,0.0865814219213301
+Global,2020,Both,Alzheimer's disease and other dementias,Percent of total deaths,2.98464469387132,0.0077402749228106,0.077064929568721
+Global,2020,Both,Diabetes mellitus,Percent of total deaths,2.57553748083805,0.0242354540505959,0.0269205721838147
+Global,2020,Both,Diabetes mellitus,Percent of Deaths attributable,16.91228091387454,0.1045300752866496,0.239118465936589
+Global,2020,Both,Other non-communicable diseases,Percent of Deaths attributable,0.0588597499764,0.0003143145061759,0.0008439129954368
+Global,2020,Both,Sudden infant death syndrome,Percent of Deaths attributable,2.25651236592857,0.0175690127482794,0.0274402110846705
+Global,2020,Both,Injuries,Percent of total deaths,6.871403305108389,0.0640166604992448,0.0714592966558901
+Global,2020,Both,Unintentional injuries,Percent of total deaths,2.90123148351673,0.0254411245498239,0.0310822715075015
+Global,2020,Both,Respiratory infections and tuberculosis,Percent of total deaths,13.12218082338206,0.1248986572446984,0.1374592518312581
+Global,2020,Both,Respiratory infections and tuberculosis,Percent of Deaths attributable,7.96941617312349,0.0155985251517464,0.1305447695222495
+Global,2020,Both,Enteric infections,Percent of Deaths attributable,0.50130510274547,0.0032383468384461,0.0073098768234958
+Global,2020,Both,Other infectious diseases,Percent of Deaths attributable,0.5997719471112101,0.0047987907373699,0.0078347765590165
+Global,2020,Both,Maternal and neonatal disorders,Percent of total deaths,3.3249531513750297,0.0294674695435787,0.0371000945587487
+Global,2020,Both,Maternal and neonatal disorders,Percent of Deaths attributable,24.097824162851985,0.223385759386284,0.2592469612655564
+Global,2020,Both,Diabetes and kidney diseases,Percent of total deaths,4.9685315381537,0.046332354740182,0.0518959562842271
+Global,2020,Both,Diabetes and kidney diseases,Percent of Deaths attributable,8.76907899402986,0.0535853162084176,0.1250990795240112
+Global,2020,Both,Diabetes mellitus type 2,Percent of Deaths attributable,17.43087095640013,0.1076784625009671,0.2462891921372245
+Global,2019,Both,All causes,Percent of Deaths attributable,13.97710688480808,0.1177009841980679,0.1624336325331232
+Global,2019,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of total deaths,17.60869033290419,0.1648006939777678,0.1897574834241575
+Global,2019,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of Deaths attributable,12.92443246069958,0.0683456746442848,0.1773438860560079
+Global,2019,Both,Diarrheal diseases,Percent of Deaths attributable,0.61412933064148,0.0039046649006782,0.0091813403214855
+Global,2019,Both,Lower respiratory infections,Percent of total deaths,4.47507604152453,0.0412080584461502,0.0473524532716641
+Global,2019,Both,Lower respiratory infections,Percent of Deaths attributable,29.65214333014193,0.0589783426633951,0.4748893626628145
+Global,2019,Both,Upper respiratory infections,Percent of Deaths attributable,0.5386890389787,0.0025970388729134,0.0078306714024571
+Global,2019,Both,Otitis media,Percent of Deaths attributable,0.35463840751994,0.0021199805089397,0.0061727204465379
+Global,2019,Both,Meningitis,Percent of Deaths attributable,1.63020493737174,0.0137482226414479,0.0201365659230498
+Global,2019,Both,Encephalitis,Percent of Deaths attributable,0.3146561934093,0.0025872652369621,0.003756271456876
+Global,2019,Both,Neonatal disorders,Percent of total deaths,3.4751692852486604,0.0309577959720245,0.0386834069610246
+Global,2019,Both,Neonatal disorders,Percent of Deaths attributable,26.7194976961449,0.2493454557475884,0.2871796417569427
+Global,2019,Both,Neonatal preterm birth,Percent of Deaths attributable,30.26708234754876,0.2828436917558907,0.324420675428511
+Global,2019,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of Deaths attributable,25.350059985929267,0.2308674983851202,0.2766899003961889
+Global,2019,Both,Neonatal sepsis and other neonatal infections,Percent of Deaths attributable,22.82404411255316,0.2128849315050723,0.2431566670648999
+Global,2019,Both,Hemolytic disease and other neonatal jaundice,Percent of Deaths attributable,21.69549062994589,0.1974264673165204,0.2408056612606266
+Global,2019,Both,Other neonatal disorders,Percent of Deaths attributable,23.16252604124083,0.2104090466750013,0.2517978204821777
+Global,2019,Both,Non-communicable diseases,Percent of Deaths attributable,15.67159731939,0.1321445953769234,0.1814507784809324
+Global,2019,Both,Neoplasms,Percent of total deaths,16.80416544302645,0.1578201451376159,0.1747663986731128
+Global,2019,Both,Neoplasms,Percent of Deaths attributable,3.697212652122301,0.0239741980092809,0.0508523784308988
+Global,2019,Both,"Tracheal, bronchus, and lung cancer",Percent of total deaths,3.39390707214576,0.0312024350125718,0.0363519867165339
+Global,2019,Both,"Tracheal, bronchus, and lung cancer",Percent of Deaths attributable,18.307023285731542,0.1171805762371969,0.2490886798233732
+Global,2019,Both,Cardiovascular diseases,Percent of Deaths attributable,22.87655110320975,0.1894277142968276,0.2693990310563107
+Global,2019,Both,Ischemic heart disease,Percent of total deaths,15.29718898400467,0.1416587820468109,0.1597052761569065
+Global,2019,Both,Ischemic heart disease,Percent of Deaths attributable,27.49872853591693,0.2127655043248676,0.3383070393093406
+Global,2019,Both,Stroke,Percent of total deaths,12.344249874155,0.1147331063525419,0.1297776557319176
+Global,2019,Both,Stroke,Percent of Deaths attributable,27.30731047269008,0.2167440697989471,0.3374010303001547
+Global,2019,Both,Ischemic stroke,Percent of total deaths,6.09042380872648,0.054868003804666,0.0645756195418546
+Global,2019,Both,Ischemic stroke,Percent of Deaths attributable,25.00521194829723,0.1982266447887564,0.3122731980036721
+Global,2019,Both,Intracerebral hemorrhage,Percent of total deaths,5.64391577473558,0.0526702175168876,0.0596824523262988
+Global,2019,Both,Intracerebral hemorrhage,Percent of Deaths attributable,30.053011464161777,0.2374528962581583,0.3680966218520064
+Global,2019,Both,Subarachnoid hemorrhage,Percent of Deaths attributable,24.82710368879302,0.192373678493969,0.3097732018747521
+Global,2019,Both,Chronic respiratory diseases,Percent of total deaths,7.53801398443991,0.0696452553511922,0.080658307728099
+Global,2019,Both,Chronic respiratory diseases,Percent of Deaths attributable,40.20850717026206,0.3256055110734569,0.4804768649728791
+Global,2019,Both,Chronic obstructive pulmonary disease,Percent of total deaths,6.314800138419489,0.0577595485636601,0.0677532814391847
+Global,2019,Both,Chronic obstructive pulmonary disease,Percent of Deaths attributable,47.994075482307856,0.3903121660632017,0.57021829136415
+Global,2019,Both,Digestive diseases,Percent of total deaths,4.372005483376809,0.04069559211734,0.046921574329511
+Global,2019,Both,Neurological disorders,Percent of total deaths,4.32882579087473,0.01983155205692,0.0937615504439692
+Global,2019,Both,Alzheimer's disease and other dementias,Percent of total deaths,3.20765674325898,0.0081988496460219,0.0833495857161305
+Global,2019,Both,Diabetes mellitus,Percent of total deaths,2.79110654610454,0.0262176629418019,0.0290626786906567
+Global,2019,Both,Diabetes mellitus,Percent of Deaths attributable,16.96175693153653,0.1037383285243471,0.2416123604256466
+Global,2019,Both,Chronic kidney disease,Percent of total deaths,2.5675152617235097,0.0233412203934302,0.0272506499970924
+Global,2019,Both,Other non-communicable diseases,Percent of Deaths attributable,0.06249663836999,0.0003282299924556,0.0009193778505263
+Global,2019,Both,Sudden infant death syndrome,Percent of Deaths attributable,2.2129949939751903,0.0167081835605928,0.0273487370853897
+Global,2019,Both,Injuries,Percent of total deaths,7.72826406827533,0.0724065141228917,0.0803072220831493
+Global,2019,Both,Unintentional injuries,Percent of total deaths,3.2404311401055903,0.0284335426695339,0.0347280308127251
+Global,2019,Both,Respiratory infections and tuberculosis,Percent of total deaths,6.61681874998033,0.0612696380317748,0.0700187548973311
+Global,2019,Both,Respiratory infections and tuberculosis,Percent of Deaths attributable,20.058841958261738,0.0400439003485448,0.3223005763622161
+Global,2019,Both,Enteric infections,Percent of total deaths,2.54654528607604,0.0187711457927699,0.0334758547193183
+Global,2019,Both,Enteric infections,Percent of Deaths attributable,0.53225984000731,0.0034763116381205,0.0075296174989633
+Global,2019,Both,Other infectious diseases,Percent of Deaths attributable,0.54650775171607,0.0042479656680707,0.0071626652882826
+Global,2019,Both,Maternal and neonatal disorders,Percent of total deaths,3.82312629984101,0.0342738218764173,0.0424919454942222
+Global,2019,Both,Maternal and neonatal disorders,Percent of Deaths attributable,24.283880968215048,0.2256730296787094,0.2608858754098386
+Global,2019,Both,Diabetes and kidney diseases,Percent of total deaths,5.3781902572225,0.0502050559118424,0.0559955093870667
+Global,2019,Both,Diabetes and kidney diseases,Percent of Deaths attributable,8.80460352428587,0.0539736507955312,0.1256871265262517
+Global,2019,Both,Diabetes mellitus type 2,Percent of total deaths,2.70594977709785,0.0254310196418558,0.0281781906787498
+Global,2019,Both,Diabetes mellitus type 2,Percent of Deaths attributable,17.49573977725068,0.1069521873251561,0.2492144716590466
+Global,2018,Both,All causes,Percent of Deaths attributable,14.25455378119384,0.1204636268811275,0.1638591817944218
+Global,2018,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of total deaths,18.218452873199283,0.1707535125330415,0.1965233811023332
+Global,2018,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of Deaths attributable,13.040789853966867,0.0697601678304207,0.1789877640833824
+Global,2018,Both,Diarrheal diseases,Percent of Deaths attributable,0.65190369596259,0.0042054273116843,0.0095361255072848
+Global,2018,Both,Lower respiratory infections,Percent of total deaths,4.544947503994281,0.0418918689981398,0.0482096006539084
+Global,2018,Both,Lower respiratory infections,Percent of Deaths attributable,30.24577158187334,0.0611011615408025,0.4828725590314237
+Global,2018,Both,Upper respiratory infections,Percent of Deaths attributable,0.55088351699792,0.0028011635686975,0.0079300394905052
+Global,2018,Both,Otitis media,Percent of Deaths attributable,0.374522209657,0.0022542257184768,0.0065543723671216
+Global,2018,Both,Meningitis,Percent of Deaths attributable,1.66489409995106,0.0141398312230514,0.020462267731287
+Global,2018,Both,Encephalitis,Percent of Deaths attributable,0.32400230425265,0.0026772003614474,0.0038221797295164
+Global,2018,Both,Neonatal disorders,Percent of total deaths,3.64594229470874,0.0327167299653883,0.0404804589872787
+Global,2018,Both,Neonatal disorders,Percent of Deaths attributable,26.84011350278484,0.2514067040192223,0.2862358019039194
+Global,2018,Both,Neonatal preterm birth,Percent of Deaths attributable,30.430019995818707,0.2858476477231106,0.3238772137069072
+Global,2018,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of Deaths attributable,25.433387758509568,0.2333657894726731,0.2747619728174313
+Global,2018,Both,Neonatal sepsis and other neonatal infections,Percent of Deaths attributable,22.839407291413348,0.2141875862534443,0.2421533120695383
+Global,2018,Both,Hemolytic disease and other neonatal jaundice,Percent of Deaths attributable,21.89461176820104,0.2016556005017052,0.2384533807920315
+Global,2018,Both,Other neonatal disorders,Percent of Deaths attributable,23.208149989304975,0.2136883620849754,0.2499092138928451
+Global,2018,Both,Non-communicable diseases,Percent of Deaths attributable,16.07298274836947,0.1366563283814023,0.1838594023461411
+Global,2018,Both,Neoplasms,Percent of total deaths,16.60932726751577,0.1561889690490692,0.1729386832285389
+Global,2018,Both,Neoplasms,Percent of Deaths attributable,3.8036694128556703,0.0245921729770386,0.0514987765977942
+Global,2018,Both,"Tracheal, bronchus, and lung cancer",Percent of total deaths,3.35416808934969,0.0312049254081822,0.0357688210550938
+Global,2018,Both,"Tracheal, bronchus, and lung cancer",Percent of Deaths attributable,18.8379590863289,0.121366359294323,0.2552832886539041
+Global,2018,Both,Cardiovascular diseases,Percent of Deaths attributable,23.47061204192169,0.1953382504013998,0.2741282069023419
+Global,2018,Both,Ischemic heart disease,Percent of total deaths,15.15993436844717,0.140929371501671,0.1584662905287394
+Global,2018,Both,Ischemic heart disease,Percent of Deaths attributable,28.046652022353957,0.2177477995051234,0.3437397762756745
+Global,2018,Both,Stroke,Percent of total deaths,12.24525556277001,0.1137219706539385,0.1289332540430013
+Global,2018,Both,Stroke,Percent of Deaths attributable,28.23570337172488,0.2255703827546984,0.3465580420028953
+Global,2018,Both,Ischemic stroke,Percent of total deaths,6.024276420425901,0.0544571545110973,0.0640930771268323
+Global,2018,Both,Ischemic stroke,Percent of Deaths attributable,25.79154409962312,0.2062403685705322,0.3180499882168505
+Global,2018,Both,Intracerebral hemorrhage,Percent of total deaths,5.61017287302456,0.0528610494371784,0.0591878122310493
+Global,2018,Both,Intracerebral hemorrhage,Percent of Deaths attributable,31.14111450203324,0.2469170350767806,0.3800486627445689
+Global,2018,Both,Subarachnoid hemorrhage,Percent of Deaths attributable,25.573189907045556,0.2019520976771727,0.3157878303659137
+Global,2018,Both,Chronic respiratory diseases,Percent of total deaths,7.452607037154079,0.0689115412358679,0.0789432987551225
+Global,2018,Both,Chronic respiratory diseases,Percent of Deaths attributable,41.27612561743685,0.3382216816095841,0.4876645464333238
+Global,2018,Both,Chronic obstructive pulmonary disease,Percent of total deaths,6.23381339033963,0.056680022961272,0.0664056449148655
+Global,2018,Both,Chronic obstructive pulmonary disease,Percent of Deaths attributable,49.34419243075189,0.4071338952808471,0.5799884812595902
+Global,2018,Both,Digestive diseases,Percent of total deaths,4.3790464803903095,0.0407552240193537,0.0467907043038242
+Global,2018,Both,Neurological disorders,Percent of total deaths,4.23617606728883,0.0194938553690727,0.091128039010219
+Global,2018,Both,Alzheimer's disease and other dementias,Percent of total deaths,3.12976298981038,0.0079271631661097,0.0807669687952044
+Global,2018,Both,Diabetes mellitus,Percent of total deaths,2.71977111520083,0.0255814704674771,0.0282067997829626
+Global,2018,Both,Diabetes mellitus,Percent of Deaths attributable,17.024585909723218,0.1045836893569899,0.2418237711341007
+Global,2018,Both,Chronic kidney disease,Percent of total deaths,2.50129301590053,0.0227909247965716,0.0262957458317563
+Global,2018,Both,Other non-communicable diseases,Percent of Deaths attributable,0.0648352395417,0.0003372127013414,0.0009540237965277
+Global,2018,Both,Sudden infant death syndrome,Percent of Deaths attributable,2.2338301739503,0.0166699246944289,0.0274795995066456
+Global,2018,Both,Injuries,Percent of total deaths,7.87658568293354,0.0738564963421447,0.0817075463064519
+Global,2018,Both,Unintentional injuries,Percent of total deaths,3.27340021713889,0.0286333718683633,0.0349816254108242
+Global,2018,Both,Respiratory infections and tuberculosis,Percent of total deaths,6.75688938596269,0.0630944555340524,0.0712825598213144
+Global,2018,Both,Respiratory infections and tuberculosis,Percent of Deaths attributable,20.34753050017038,0.0411175275200117,0.3255051109909009
+Global,2018,Both,Enteric infections,Percent of total deaths,2.66952281368944,0.0197400737242655,0.035568827381819
+Global,2018,Both,Enteric infections,Percent of Deaths attributable,0.56611768410711,0.0037503618318527,0.0080337167801671
+Global,2018,Both,Other infectious diseases,Percent of Deaths attributable,0.5584050150700001,0.004342681719329,0.0072219558989735
+Global,2018,Both,Maternal and neonatal disorders,Percent of total deaths,4.00751853198091,0.0361626560126047,0.0444670283857041
+Global,2018,Both,Maternal and neonatal disorders,Percent of Deaths attributable,24.41545836091369,0.2282269415482601,0.2602450944994726
+Global,2018,Both,Diabetes and kidney diseases,Percent of total deaths,5.240852679499191,0.0490344955494463,0.0544593318618201
+Global,2018,Both,Diabetes and kidney diseases,Percent of Deaths attributable,8.837335716337371,0.0544133063550479,0.1265654652062731
+Global,2018,Both,Diabetes mellitus type 2,Percent of total deaths,2.63424340136361,0.0247464384723016,0.0273438501443543
+Global,2018,Both,Diabetes mellitus type 2,Percent of Deaths attributable,17.57762774819805,0.1079153170352593,0.2496171258995739
+Global,2017,Both,All causes,Percent of Deaths attributable,14.549448060085702,0.1233722387847147,0.167199283696813
+Global,2017,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of total deaths,18.84152447302894,0.1769872882241786,0.2018101697882267
+Global,2017,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of Deaths attributable,13.18274375206061,0.0713094404952061,0.1798349131415469
+Global,2017,Both,Diarrheal diseases,Percent of Deaths attributable,0.6848108900637601,0.0044268620462255,0.0099239683595225
+Global,2017,Both,Lower respiratory infections,Percent of total deaths,4.59531534799798,0.0423520973209391,0.0486625379150211
+Global,2017,Both,Lower respiratory infections,Percent of Deaths attributable,31.038684511231928,0.0640515603636517,0.4919015683597679
+Global,2017,Both,Upper respiratory infections,Percent of Deaths attributable,0.56209690403046,0.0029050333625394,0.0078887253255734
+Global,2017,Both,Otitis media,Percent of Deaths attributable,0.3994733198101199,0.0024139776828056,0.0070207943159136
+Global,2017,Both,Meningitis,Percent of Deaths attributable,1.7131146421635102,0.0146150287968062,0.0206979021040226
+Global,2017,Both,Encephalitis,Percent of Deaths attributable,0.33080897630689,0.0027732063465486,0.0038783852828385
+Global,2017,Both,Neonatal disorders,Percent of total deaths,3.82465250095774,0.0344399432537131,0.0420025636159651
+Global,2017,Both,Neonatal disorders,Percent of Deaths attributable,26.99901524577828,0.2534698722659627,0.2865917901018128
+Global,2017,Both,Neonatal preterm birth,Percent of Deaths attributable,30.631813676022603,0.2885142398415756,0.3247772540761845
+Global,2017,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of Deaths attributable,25.57560626507429,0.2367064967454023,0.2761640575793034
+Global,2017,Both,Neonatal sepsis and other neonatal infections,Percent of Deaths attributable,22.90478426934781,0.2147561724547668,0.2430502748120247
+Global,2017,Both,Hemolytic disease and other neonatal jaundice,Percent of Deaths attributable,22.06550046160799,0.2033076397697352,0.2390540962317802
+Global,2017,Both,Other neonatal disorders,Percent of Deaths attributable,23.31411175777412,0.215780562080788,0.2505469511795639
+Global,2017,Both,Non-communicable diseases,Percent of Deaths attributable,16.5012531141308,0.1411628426192554,0.1879699902915209
+Global,2017,Both,Neoplasms,Percent of total deaths,16.40860530189548,0.1543966931208238,0.1704137276644177
+Global,2017,Both,Neoplasms,Percent of Deaths attributable,3.93907074287606,0.0252843017876834,0.0536273780744905
+Global,2017,Both,"Tracheal, bronchus, and lung cancer",Percent of total deaths,3.32347060330627,0.0309358579327475,0.0351517407426402
+Global,2017,Both,"Tracheal, bronchus, and lung cancer",Percent of Deaths attributable,19.44865697594315,0.1263237289651006,0.2629174215989267
+Global,2017,Both,Cardiovascular diseases,Percent of Deaths attributable,24.09488627582292,0.2018776343202785,0.2808175882761838
+Global,2017,Both,Ischemic heart disease,Percent of total deaths,14.98243567913075,0.1393531252467747,0.1563384320920887
+Global,2017,Both,Ischemic heart disease,Percent of Deaths attributable,28.61951882225315,0.2214856866331149,0.3498242745755232
+Global,2017,Both,Stroke,Percent of total deaths,12.15424539696972,0.1131196707995083,0.127997298323274
+Global,2017,Both,Stroke,Percent of Deaths attributable,29.222001031646577,0.2348218194424184,0.3559696384891623
+Global,2017,Both,Ischemic stroke,Percent of total deaths,5.9629841462416895,0.0538909540482278,0.0634264087295699
+Global,2017,Both,Ischemic stroke,Percent of Deaths attributable,26.68676814277946,0.2148745705640092,0.3278970060918014
+Global,2017,Both,Intracerebral hemorrhage,Percent of total deaths,5.58080169370772,0.0523807911263672,0.0587649688822225
+Global,2017,Both,Intracerebral hemorrhage,Percent of Deaths attributable,32.23375113029999,0.2571492867872801,0.3889382095848224
+Global,2017,Both,Subarachnoid hemorrhage,Percent of Deaths attributable,26.37076503032208,0.2097135254984567,0.3260027748731812
+Global,2017,Both,Chronic respiratory diseases,Percent of total deaths,7.36069573332963,0.0678052598027201,0.077845148004662
+Global,2017,Both,Chronic respiratory diseases,Percent of Deaths attributable,42.49199135280789,0.3504597614303825,0.4966474583116165
+Global,2017,Both,Chronic obstructive pulmonary disease,Percent of total deaths,6.15122207259762,0.0562102023126335,0.0653105579126283
+Global,2017,Both,Chronic obstructive pulmonary disease,Percent of Deaths attributable,50.842484743982354,0.4229239737028981,0.5925266498500292
+Global,2017,Both,Digestive diseases,Percent of total deaths,4.39077017946375,0.0413990070243991,0.0463493301454977
+Global,2017,Both,Neurological disorders,Percent of total deaths,4.14345711647398,0.0191572033281183,0.088227709205
+Global,2017,Both,Alzheimer's disease and other dementias,Percent of total deaths,3.05120923457747,0.0078349277375076,0.0779632015117348
+Global,2017,Both,Diabetes mellitus,Percent of total deaths,2.64575549284215,0.0250303963369927,0.0274004776999425
+Global,2017,Both,Diabetes mellitus,Percent of Deaths attributable,17.13385349218147,0.1056780866303798,0.2426261286456112
+Global,2017,Both,Other non-communicable diseases,Percent of Deaths attributable,0.06740807856992,0.0003543604177315,0.0009898604263855
+Global,2017,Both,Sudden infant death syndrome,Percent of Deaths attributable,2.25785177366927,0.0169253779668716,0.0280125349406338
+Global,2017,Both,Injuries,Percent of total deaths,8.03877498031753,0.075462366414817,0.0831520261220272
+Global,2017,Both,Unintentional injuries,Percent of total deaths,3.30949771622786,0.0290056957461115,0.0353669467646845
+Global,2017,Both,Respiratory infections and tuberculosis,Percent of total deaths,6.866090668904019,0.0638661179818812,0.0721473173636227
+Global,2017,Both,Respiratory infections and tuberculosis,Percent of Deaths attributable,20.77724793858563,0.0429777998797051,0.3307568864708284
+Global,2017,Both,Enteric infections,Percent of total deaths,2.80847046195337,0.02112547151994,0.0370678002972318
+Global,2017,Both,Enteric infections,Percent of Deaths attributable,0.5942939510231601,0.0039613856170095,0.0082992516596266
+Global,2017,Both,Other infectious diseases,Percent of Deaths attributable,0.57395805654566,0.0044877109092587,0.0074950544840549
+Global,2017,Both,Maternal and neonatal disorders,Percent of total deaths,4.20275827479342,0.0379764460686857,0.0460951195330687
+Global,2017,Both,Maternal and neonatal disorders,Percent of Deaths attributable,24.56731871239851,0.2307636044512366,0.2608397269912754
+Global,2017,Both,Diabetes and kidney diseases,Percent of total deaths,5.11993789596028,0.048073645833736,0.0531553879656638
+Global,2017,Both,Diabetes and kidney diseases,Percent of Deaths attributable,8.85619319854548,0.0544781305261764,0.1268676736315698
+Global,2017,Both,Diabetes mellitus type 2,Percent of total deaths,2.55980274972507,0.0241609149872001,0.0265332608801561
+Global,2017,Both,Diabetes mellitus type 2,Percent of Deaths attributable,17.70932815964144,0.1091517006747961,0.2506037772156627
+Global,2016,Both,All causes,Percent of Deaths attributable,14.8196734281149,0.1253095276316838,0.1696975031437795
+Global,2016,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of total deaths,19.428632455638,0.1830511533874456,0.2080008140581348
+Global,2016,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of Deaths attributable,13.29037558567773,0.0723414125548185,0.1803339942649386
+Global,2016,Both,Diarrheal diseases,Percent of total deaths,2.5526767928932803,0.0186636841016087,0.0351183777462614
+Global,2016,Both,Diarrheal diseases,Percent of Deaths attributable,0.7253482312196899,0.0046897856292269,0.010212671660616
+Global,2016,Both,Lower respiratory infections,Percent of total deaths,4.6543349694276,0.0430568621412715,0.0492381293149664
+Global,2016,Both,Lower respiratory infections,Percent of Deaths attributable,31.65959158146284,0.0663091734789823,0.5008714200578486
+Global,2016,Both,Upper respiratory infections,Percent of Deaths attributable,0.5743524474262099,0.0030796107567061,0.0080315615250659
+Global,2016,Both,Otitis media,Percent of Deaths attributable,0.42636883985182,0.0025131901696397,0.0076552580853614
+Global,2016,Both,Meningitis,Percent of Deaths attributable,1.75952653446403,0.0150803321946692,0.021170231205988
+Global,2016,Both,Encephalitis,Percent of Deaths attributable,0.3434155564446,0.0028658383224253,0.0040360272827569
+Global,2016,Both,Neonatal disorders,Percent of total deaths,3.98214313227718,0.0357881752177498,0.0435375081150084
+Global,2016,Both,Neonatal disorders,Percent of Deaths attributable,27.15094419977427,0.2546156238130426,0.2876093669219751
+Global,2016,Both,Neonatal preterm birth,Percent of Deaths attributable,30.83744788127798,0.289672827445975,0.327319834181478
+Global,2016,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of Deaths attributable,25.68983288901929,0.2361701479448178,0.2763543303428611
+Global,2016,Both,Neonatal sepsis and other neonatal infections,Percent of Deaths attributable,22.98436334070795,0.2162701762069187,0.2443203313880279
+Global,2016,Both,Hemolytic disease and other neonatal jaundice,Percent of Deaths attributable,22.257483689053988,0.2050166622289997,0.2419609621495474
+Global,2016,Both,Other neonatal disorders,Percent of Deaths attributable,23.41025088134476,0.2157886137576649,0.2509101061239899
+Global,2016,Both,Non-communicable diseases,Percent of Deaths attributable,16.88227600119497,0.1447538024285976,0.1922118921333455
+Global,2016,Both,Neoplasms,Percent of total deaths,16.24748059578431,0.1531097097617444,0.1685301097544399
+Global,2016,Both,Neoplasms,Percent of Deaths attributable,4.06206682666401,0.0264583382958914,0.0549310301064503
+Global,2016,Both,"Tracheal, bronchus, and lung cancer",Percent of total deaths,3.30402312329437,0.0307297762314438,0.0350569139148567
+Global,2016,Both,"Tracheal, bronchus, and lung cancer",Percent of Deaths attributable,19.97609140030268,0.1291759410784994,0.2682020248208607
+Global,2016,Both,Cardiovascular diseases,Percent of Deaths attributable,24.66529704018612,0.2086710458755231,0.2854994866698823
+Global,2016,Both,Ischemic heart disease,Percent of total deaths,14.95847921675821,0.1388852875765592,0.1560468666110638
+Global,2016,Both,Ischemic heart disease,Percent of Deaths attributable,29.12813715515862,0.2282885771497126,0.3536073010468334
+Global,2016,Both,Stroke,Percent of total deaths,12.07930992823934,0.1123798129997424,0.1266720396084368
+Global,2016,Both,Stroke,Percent of Deaths attributable,30.02922621392582,0.2430650521504618,0.3626691064386727
+Global,2016,Both,Ischemic stroke,Percent of total deaths,5.90098211446002,0.0534401349418548,0.0626311714991827
+Global,2016,Both,Ischemic stroke,Percent of Deaths attributable,27.35560971611256,0.2213667431894352,0.3313445126883514
+Global,2016,Both,Intracerebral hemorrhage,Percent of total deaths,5.56912376588414,0.0522704492153642,0.0586558366742209
+Global,2016,Both,Intracerebral hemorrhage,Percent of Deaths attributable,33.18254119960429,0.2658321392795378,0.3967949359681947
+Global,2016,Both,Subarachnoid hemorrhage,Percent of Deaths attributable,26.9959622392966,0.2156269502514767,0.3317025025686096
+Global,2016,Both,Chronic respiratory diseases,Percent of total deaths,7.25620060386042,0.0671621724251539,0.0761223416306703
+Global,2016,Both,Chronic respiratory diseases,Percent of Deaths attributable,43.38776250652066,0.3595202379556134,0.5056924104938469
+Global,2016,Both,Chronic obstructive pulmonary disease,Percent of total deaths,6.05969814752874,0.0552726181766205,0.0641403783541354
+Global,2016,Both,Chronic obstructive pulmonary disease,Percent of Deaths attributable,51.949938054481,0.4340250316012579,0.6017245268248282
+Global,2016,Both,Digestive diseases,Percent of total deaths,4.40714863660008,0.0418711920346292,0.0464220508444877
+Global,2016,Both,Neurological disorders,Percent of total deaths,4.03283649036816,0.0186242347933636,0.0868605987832801
+Global,2016,Both,Alzheimer's disease and other dementias,Percent of total deaths,2.96510497378319,0.0075530771211072,0.0768482579252433
+Global,2016,Both,Diabetes mellitus,Percent of total deaths,2.57918721807996,0.0244222856824389,0.0266929212073337
+Global,2016,Both,Diabetes mellitus,Percent of Deaths attributable,17.26728716331193,0.1068161331278542,0.2444372667415762
+Global,2016,Both,Other non-communicable diseases,Percent of Deaths attributable,0.07033257131144,0.0003746147755473,0.0010326138733296
+Global,2016,Both,Sudden infant death syndrome,Percent of Deaths attributable,2.28398950512688,0.0170901182932822,0.0283540076481063
+Global,2016,Both,Injuries,Percent of total deaths,8.08478512863625,0.0760006393946221,0.0836211923471026
+Global,2016,Both,Unintentional injuries,Percent of total deaths,3.31795094270731,0.0291392208252475,0.0353750518886195
+Global,2016,Both,Respiratory infections and tuberculosis,Percent of total deaths,6.981928425046189,0.06516193731584,0.0734562892492142
+Global,2016,Both,Respiratory infections and tuberculosis,Percent of Deaths attributable,21.11032003155253,0.0443019692833302,0.336505276626542
+Global,2016,Both,Enteric infections,Percent of total deaths,2.9254837946580103,0.022312547869391,0.0388663653429752
+Global,2016,Both,Enteric infections,Percent of Deaths attributable,0.63064739733646,0.0042319965087973,0.0085851993854232
+Global,2016,Both,Other infectious diseases,Percent of Deaths attributable,0.59603573068641,0.0046753855351318,0.0075568790051003
+Global,2016,Both,Maternal and neonatal disorders,Percent of total deaths,4.36990687157959,0.0395795998312035,0.0475445532007651
+Global,2016,Both,Maternal and neonatal disorders,Percent of Deaths attributable,24.73857512967074,0.23217224329942,0.2627564320558271
+Global,2016,Both,Diabetes and kidney diseases,Percent of total deaths,5.002582064968579,0.0469232386170676,0.0520338218981621
+Global,2016,Both,Diabetes and kidney diseases,Percent of Deaths attributable,8.9048355029552,0.0548763948992659,0.1272101142880242
+Global,2016,Both,Diabetes mellitus type 2,Percent of Deaths attributable,17.859081298011333,0.11040168954973,0.2524776281319439
+Global,2015,Both,All causes,Percent of Deaths attributable,14.99427496857932,0.1281100208112893,0.1716943313881155
+Global,2015,Both,"Communicable, maternal, neonatal, and nutritional diseases",Percent of Deaths attributable,13.2987769242778,0.0721111775708198,0.1792375055059755
+Global,2015,Both,Diarrheal diseases,Percent of total deaths,2.6893301888340804,0.0196860499118478,0.0366704283594762
+Global,2015,Both,Diarrheal diseases,Percent of Deaths attributable,0.75858428135327,0.004991571615849,0.0103834573201118
+Global,2015,Both,Lower respiratory infections,Percent of total deaths,4.71249917442585,0.0438524122785855,0.04989566502722
+Global,2015,Both,Lower respiratory infections,Percent of Deaths attributable,32.221294910949425,0.068193876119874,0.5098840616146808
+Global,2015,Both,Upper respiratory infections,Percent of Deaths attributable,0.5861782299460401,0.0032023881264949,0.0081188863966244
+Global,2015,Both,Otitis media,Percent of Deaths attributable,0.44405973086345,0.0026141100153767,0.007722091769059
+Global,2015,Both,Meningitis,Percent of Deaths attributable,1.80951153866144,0.0157077906299486,0.0214164352771318
+Global,2015,Both,Encephalitis,Percent of Deaths attributable,0.35350762965149,0.0029723078696853,0.0041435964488689
+Global,2015,Both,Neonatal disorders,Percent of total deaths,4.12812057334508,0.0375989574343339,0.0447478139327695
+Global,2015,Both,Neonatal disorders,Percent of Deaths attributable,27.23999177333829,0.2541129229544266,0.2893539374911494
+Global,2015,Both,Neonatal preterm birth,Percent of Deaths attributable,30.95883758422956,0.2893775875666843,0.3299294685684291
+Global,2015,Both,Neonatal encephalopathy due to birth asphyxia and trauma,Percent of Deaths attributable,25.753549770610267,0.2362539336516329,0.2772576882665944
+Global,2015,Both,Neonatal sepsis and other neonatal infections,Percent of Deaths attributable,23.02050637918358,0.2161348381878438,0.245289165981921
+Global,2015,Both,Hemolytic disease and other neonatal jaundice,Percent of Deaths attributable,22.482370566141,0.2052060587292583,0.243631433427382
+Global,2015,Both,Other neonatal disorders,Percent of Deaths attributable,23.458097212473,0.2163690343020278,0.2517536647379016
+Global,2015,Both,Non-communicable diseases,Percent of Deaths attributable,17.17826339480057,0.1474497844993951,0.1954102188971345
+Global,2015,Both,Neoplasms,Percent of total deaths,16.02031103096105,0.1512675415152863,0.1659514358170604
+Global,2015,Both,Neoplasms,Percent of Deaths attributable,4.13082398549046,0.0270472000396509,0.0555165350535616
+Global,2015,Both,"Tracheal, bronchus, and lung cancer",Percent of total deaths,3.2583228040872103,0.0305818270414343,0.0340549117864975
+Global,2015,Both,"Tracheal, bronchus, and lung cancer",Percent of Deaths attributable,20.31127615059061,0.1329276282404259,0.2721278841904877
+Global,2015,Both,Cardiovascular diseases,Percent of Deaths attributable,25.03822575830332,0.2104887856497917,0.2903491089269048
+Global,2015,Both,Ischemic heart disease,Percent of total deaths,14.860523490794389,0.1380993763225286,0.1550727021289535
+Global,2015,Both,Ischemic heart disease,Percent of Deaths attributable,29.41232898644317,0.2299906115944592,0.3577086153178411
+Global,2015,Both,Stroke,Percent of total deaths,11.98218560381788,0.1119297903134837,0.1254815377917162
+Global,2015,Both,Stroke,Percent of Deaths attributable,30.63212202695158,0.248113778569355,0.3682572759989928
+Global,2015,Both,Ischemic stroke,Percent of total deaths,5.83444824169193,0.0532531272976419,0.0620481743321297
+Global,2015,Both,Ischemic stroke,Percent of Deaths attributable,27.86006550434101,0.2249057050669119,0.3366577692958101
+Global,2015,Both,Intracerebral hemorrhage,Percent of total deaths,5.54228049632451,0.0520581308492049,0.0583290220449409
+Global,2015,Both,Intracerebral hemorrhage,Percent of Deaths attributable,33.88472072711307,0.2720024183349686,0.404752792799125
+Global,2015,Both,Subarachnoid hemorrhage,Percent of Deaths attributable,27.4577232257603,0.2194341065816,0.3378001968734668
+Global,2015,Both,Chronic respiratory diseases,Percent of total deaths,7.225703816897839,0.067167811571167,0.075771062937539
+Global,2015,Both,Chronic respiratory diseases,Percent of Deaths attributable,44.04096222661758,0.3652150529281001,0.5106207898151764
+Global,2015,Both,Chronic obstructive pulmonary disease,Percent of total deaths,6.03008257273746,0.0550292067080609,0.0637569188290179
+Global,2015,Both,Chronic obstructive pulmonary disease,Percent of Deaths attributable,52.76656715765872,0.4441744083513117,0.6079739628975901
+Global,2015,Both,Cirrhosis and other chronic liver diseases,Percent of total deaths,2.50588072660768,0.0241714817739012,0.0265517418238315
+Global,2015,Both,Digestive diseases,Percent of total deaths,4.41080196576487,0.0421253945120989,0.0462983599003145
+Global,2015,Both,Neurological disorders,Percent of total deaths,3.92455129689639,0.0181272651726022,0.0843834797930087
+Global,2015,Both,Alzheimer's disease and other dementias,Percent of total deaths,2.88213471489595,0.0073567347867017,0.0745763716260349
+Global,2015,Both,Diabetes mellitus,Percent of total deaths,2.51260552366134,0.0237902629610047,0.0259707607895378
+Global,2015,Both,Diabetes mellitus,Percent of Deaths attributable,17.36932946547244,0.1077175868982183,0.2455250734119431
+Global,2015,Both,Other non-communicable diseases,Percent of Deaths attributable,0.07377791747265,0.0003930284839692,0.0010683198557391
+Global,2015,Both,Sudden infant death syndrome,Percent of Deaths attributable,2.31087864338708,0.0171403624781546,0.0290310448879189
+Global,2015,Both,Injuries,Percent of total deaths,8.17527776086126,0.076888936203921,0.0843640451285368
+Global,2015,Both,Unintentional injuries,Percent of total deaths,3.35816239462143,0.0295163300779968,0.0357468423697786
+Global,2015,Both,Respiratory infections and tuberculosis,Percent of total deaths,7.10638647303171,0.0665174592929198,0.0747230825332953
+Global,2015,Both,Respiratory infections and tuberculosis,Percent of Deaths attributable,21.371144510775785,0.0452607377678598,0.3390648033378804
+Global,2015,Both,Enteric infections,Percent of total deaths,3.06866793037936,0.0234469243470563,0.0402818019235051
+Global,2015,Both,Enteric infections,Percent of Deaths attributable,0.6624984602639999,0.0045824957281159,0.0089133475264124
+Global,2015,Both,Other infectious diseases,Percent of Deaths attributable,0.60860756865652,0.0047841043783663,0.0077691627034321
+Global,2015,Both,Maternal and neonatal disorders,Percent of total deaths,4.52747143379222,0.0414196418224014,0.0489107256314229
+Global,2015,Both,Maternal and neonatal disorders,Percent of Deaths attributable,24.83463181113543,0.2320770593028623,0.2637418161254056
+Global,2015,Both,Diabetes and kidney diseases,Percent of total deaths,4.87053991634796,0.0457150301087387,0.0506072165629545
+Global,2015,Both,Diabetes and kidney diseases,Percent of Deaths attributable,8.96278300214439,0.0553798000398275,0.1278672817369851
+Global,2015,Both,Diabetes mellitus type 2,Percent of Deaths attributable,17.97725196964706,0.1114489676667732,0.2538787840309667

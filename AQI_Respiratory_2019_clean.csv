@@ -1,0 +1,1001 @@
+
+location_name,fips,year,Resp_Death_Rate,Days_PM2_5,Days_PM10
+Baldwin County (Alabama),1003.0,2019.0,0.000217203,73.0,0.0
+Clay County (Alabama),1027.0,2019.0,0.000421652,107.0,0.0
+Colbert County (Alabama),1033.0,2019.0,0.000364401,44.0,0.0
+DeKalb County (Alabama),1049.0,2019.0,0.000281844,55.0,0.0
+Elmore County (Alabama),1051.0,2019.0,0.000200705,0.0,0.0
+Etowah County (Alabama),1055.0,2019.0,0.000389726,78.0,0.0
+Houston County (Alabama),1069.0,2019.0,0.00021206,99.0,0.0
+Jefferson County (Alabama),1073.0,2019.0,0.000306587,289.0,1.0
+Lawrence County (Alabama),1079.0,2019.0,0.000360321,112.0,0.0
+Madison County (Alabama),1089.0,2019.0,0.000201818,255.0,7.0
+Mobile County (Alabama),1097.0,2019.0,0.00028077,281.0,0.0
+Montgomery County (Alabama),1101.0,2019.0,0.000193098,346.0,1.0
+Morgan County (Alabama),1103.0,2019.0,0.000332664,220.0,0.0
+Russell County (Alabama),1113.0,2019.0,0.000264196,299.0,0.0
+Shelby County (Alabama),1117.0,2019.0,0.000168678,0.0,0.0
+Sumter County (Alabama),1119.0,2019.0,0.000394484,239.0,0.0
+Tuscaloosa County (Alabama),1125.0,2019.0,0.000288564,91.0,0.0
+Anchorage Municipality (Alaska),2020.0,2019.0,9.85e-05,285.0,75.0
+Bethel Census Area (Alaska),2050.0,2019.0,0.000145926,212.0,105.0
+Fairbanks North Star Borough (Alaska),2090.0,2019.0,6.04e-05,258.0,3.0
+Juneau City and Borough (Alaska),2110.0,2019.0,7.34e-05,340.0,22.0
+Kenai Peninsula Borough (Alaska),2122.0,2019.0,0.000134637,118.0,0.0
+Matanuska-Susitna Borough (Alaska),2170.0,2019.0,9.27e-05,313.0,48.0
+North Slope Borough (Alaska),2185.0,2019.0,0.000101242,110.0,0.0
+Aleutians East Borough (Alaska),2013.0,2019.0,5.93e-05,121.0,0.0
+Denali Borough (Alaska),2068.0,2019.0,0.000124911,12.0,0.0
+Apache County (Arizona),4001.0,2019.0,0.000273799,62.0,297.0
+Cochise County (Arizona),4003.0,2019.0,0.000237486,45.0,15.0
+Coconino County (Arizona),4005.0,2019.0,0.000109628,16.0,0.0
+Gila County (Arizona),4007.0,2019.0,0.000231394,1.0,15.0
+Maricopa County (Arizona),4013.0,2019.0,0.000138727,92.0,67.0
+Mohave County (Arizona),4015.0,2019.0,0.000310891,52.0,313.0
+Navajo County (Arizona),4017.0,2019.0,0.000233253,1.0,7.0
+Pima County (Arizona),4019.0,2019.0,0.000179572,51.0,77.0
+Pinal County (Arizona),4021.0,2019.0,0.000129272,66.0,151.0
+Santa Cruz County (Arizona),4023.0,2019.0,0.000145366,323.0,39.0
+Yavapai County (Arizona),4025.0,2019.0,0.000210728,2.0,0.0
+La Paz County (Arizona),4012.0,2019.0,0.000249987,6.0,1.0
+Yuma County (Arizona),4027.0,2019.0,0.000249987,120.0,31.0
+Arkansas County (Arkansas),5001.0,2019.0,0.000334455,118.0,0.0
+Ashley County (Arkansas),5003.0,2019.0,0.000298933,120.0,0.0
+Benton County (Arkansas),5007.0,2019.0,9.26e-05,146.0,0.0
+Clark County (Arkansas),5019.0,2019.0,0.00024041,0.0,0.0
+Craighead County (Arkansas),5031.0,2019.0,0.000255016,49.0,0.0
+Crittenden County (Arkansas),5035.0,2019.0,0.00027291,258.0,0.0
+Garland County (Arkansas),5051.0,2019.0,0.000365183,121.0,0.0
+Jackson County (Arkansas),5067.0,2019.0,0.000395655,117.0,0.0
+Newton County (Arkansas),5101.0,2019.0,0.000347818,23.0,0.0
+Polk County (Arkansas),5113.0,2019.0,0.000295183,74.0,0.0
+Pulaski County (Arkansas),5119.0,2019.0,0.000208593,275.0,0.0
+Union County (Arkansas),5139.0,2019.0,0.000321308,241.0,0.0
+Washington County (Arkansas),5143.0,2019.0,7.55e-05,247.0,0.0
+Alameda County (California),6001.0,2019.0,0.000148263,260.0,0.0
+Amador County (California),6005.0,2019.0,0.000335422,0.0,0.0
+Butte County (California),6007.0,2019.0,0.000233497,243.0,1.0
+Calaveras County (California),6009.0,2019.0,0.000281038,62.0,1.0
+Colusa County (California),6011.0,2019.0,0.000175976,173.0,40.0
+Contra Costa County (California),6013.0,2019.0,0.000148285,190.0,1.0
+Del Norte County (California),6015.0,2019.0,0.000289628,248.0,0.0
+El Dorado County (California),6017.0,2019.0,0.000168532,3.0,9.0
+Fresno County (California),6019.0,2019.0,0.00016853,118.0,17.0
+Glenn County (California),6021.0,2019.0,0.000224522,119.0,11.0
+Humboldt County (California),6023.0,2019.0,0.000168175,70.0,37.0
+Imperial County (California),6025.0,2019.0,0.000258118,128.0,52.0
+Inyo County (California),6027.0,2019.0,0.000238535,23.0,29.0
+Kern County (California),6029.0,2019.0,0.000134151,108.0,28.0
+Kings County (California),6031.0,2019.0,0.000126431,130.0,69.0
+Lake County (California),6033.0,2019.0,0.000286385,8.0,1.0
+Los Angeles County (California),6037.0,2019.0,0.000189009,170.0,5.0
+Madera County (California),6039.0,2019.0,0.00014552,103.0,37.0
+Marin County (California),6041.0,2019.0,0.000190771,202.0,0.0
+Mariposa County (California),6043.0,2019.0,0.000215279,118.0,0.0
+Mendocino County (California),6045.0,2019.0,0.000218632,199.0,7.0
+Merced County (California),6047.0,2019.0,0.000152025,161.0,2.0
+Mono County (California),6051.0,2019.0,0.000127627,322.0,43.0
+Monterey County (California),6053.0,2019.0,0.000133103,127.0,8.0
+Napa County (California),6055.0,2019.0,0.000196103,150.0,0.0
+Nevada County (California),6057.0,2019.0,0.000245155,89.0,0.0
+Orange County (California),6059.0,2019.0,0.000169522,164.0,6.0
+Placer County (California),6061.0,2019.0,0.000175287,145.0,2.0
+Plumas County (California),6063.0,2019.0,0.00029717,341.0,0.0
+Riverside County (California),6065.0,2019.0,0.000140519,102.0,44.0
+Sacramento County (California),6067.0,2019.0,0.000171301,169.0,7.0
+San Benito County (California),6069.0,2019.0,0.000154161,51.0,6.0
+San Bernardino County (California),6071.0,2019.0,0.000136673,140.0,7.0
+San Diego County (California),6073.0,2019.0,0.00012347,228.0,3.0
+San Francisco County (California),6075.0,2019.0,0.000147753,231.0,0.0
+San Joaquin County (California),6077.0,2019.0,0.000183151,149.0,14.0
+San Luis Obispo County (California),6079.0,2019.0,0.000169865,109.0,17.0
+San Mateo County (California),6081.0,2019.0,0.000137396,216.0,0.0
+Santa Barbara County (California),6083.0,2019.0,0.0001494,128.0,9.0
+Santa Clara County (California),6085.0,2019.0,0.000108413,229.0,1.0
+Santa Cruz County (California),6087.0,2019.0,0.000137335,199.0,0.0
+Shasta County (California),6089.0,2019.0,0.000273996,13.0,2.0
+Siskiyou County (California),6093.0,2019.0,0.000288419,126.0,0.0
+Solano County (California),6095.0,2019.0,0.000211383,235.0,0.0
+Sonoma County (California),6097.0,2019.0,0.00016066,155.0,7.0
+Stanislaus County (California),6099.0,2019.0,0.00016244,147.0,10.0
+Sutter County (California),6101.0,2019.0,0.000233184,159.0,6.0
+Tehama County (California),6103.0,2019.0,0.000251538,66.0,0.0
+Trinity County (California),6105.0,2019.0,0.000303529,269.0,0.0
+Tulare County (California),6107.0,2019.0,0.000186624,136.0,19.0
+Tuolumne County (California),6109.0,2019.0,0.000237969,0.0,0.0
+Ventura County (California),6111.0,2019.0,0.000107638,127.0,9.0
+Yolo County (California),6113.0,2019.0,0.000147631,114.0,1.0
+Alamosa County (Colorado),8003.0,2019.0,0.000169448,107.0,0.0
+Archuleta County (Colorado),8007.0,2019.0,0.000141751,0.0,174.0
+Chaffee County (Colorado),8015.0,2019.0,0.000204087,0.0,0.0
+Clear Creek County (Colorado),8019.0,2019.0,0.000113733,0.0,0.0
+Delta County (Colorado),8029.0,2019.0,0.000263662,25.0,0.0
+Douglas County (Colorado),8035.0,2019.0,6.28e-05,72.0,0.0
+El Paso County (Colorado),8041.0,2019.0,9.44e-05,45.0,0.0
+Fremont County (Colorado),8043.0,2019.0,0.00023462,0.0,32.0
+Garfield County (Colorado),8045.0,2019.0,0.000106349,1.0,0.0
+Gilpin County (Colorado),8047.0,2019.0,9.65e-05,0.0,0.0
+Grand County (Colorado),8049.0,2019.0,9.65e-05,0.0,0.0
+Gunnison County (Colorado),8051.0,2019.0,6.6e-05,0.0,0.0
+Jackson County (Colorado),8057.0,2019.0,0.000246284,102.0,0.0
+La Plata County (Colorado),8067.0,2019.0,9.27e-05,45.0,0.0
+Larimer County (Colorado),8069.0,2019.0,0.000120917,58.0,0.0
+Mesa County (Colorado),8077.0,2019.0,0.000149796,78.0,1.0
+Montezuma County (Colorado),8083.0,2019.0,0.000169262,0.0,0.0
+Park County (Colorado),8093.0,2019.0,9.48e-05,0.0,0.0
+Pitkin County (Colorado),8097.0,2019.0,7.08e-05,33.0,88.0
+Prowers County (Colorado),8099.0,2019.0,0.000268524,0.0,346.0
+Pueblo County (Colorado),8101.0,2019.0,0.000189325,102.0,24.0
+Rio Blanco County (Colorado),8103.0,2019.0,0.000194676,171.0,0.0
+Routt County (Colorado),8107.0,2019.0,0.000105487,0.0,356.0
+San Miguel County (Colorado),8113.0,2019.0,6.93e-05,0.0,56.0
+Adams County (Colorado),8001.0,2019.0,0.000104716,152.0,54.0
+Arapahoe County (Colorado),8005.0,2019.0,0.000104716,17.0,0.0
+Boulder County (Colorado),8013.0,2019.0,0.000104716,131.0,0.0
+Denver County (Colorado),8031.0,2019.0,0.000104716,152.0,0.0
+Jefferson County (Colorado),8059.0,2019.0,0.000104716,0.0,0.0
+Weld County (Colorado),8123.0,2019.0,0.000104716,137.0,0.0
+Fairfield County (Connecticut),9001.0,2019.0,0.000183784,204.0,0.0
+Hartford County (Connecticut),9003.0,2019.0,0.000243537,190.0,0.0
+Litchfield County (Connecticut),9005.0,2019.0,0.000277828,54.0,0.0
+Middlesex County (Connecticut),9007.0,2019.0,0.000198917,0.0,0.0
+New Haven County (Connecticut),9009.0,2019.0,0.000207147,180.0,1.0
+New London County (Connecticut),9011.0,2019.0,0.000270305,203.0,0.0
+Tolland County (Connecticut),9013.0,2019.0,0.000193246,0.0,0.0
+Windham County (Connecticut),9015.0,2019.0,0.000255706,0.0,0.0
+Kent County (Delaware),10001.0,2019.0,0.000180418,167.0,0.0
+New Castle County (Delaware),10003.0,2019.0,0.000181951,184.0,0.0
+Sussex County (Delaware),10005.0,2019.0,0.000197679,160.0,0.0
+District of Columbia,11001.0,2019.0,0.000121191,189.0,0.0
+Alachua County (Florida),12001.0,2019.0,0.00010578,206.0,0.0
+Baker County (Florida),12003.0,2019.0,0.000175531,0.0,0.0
+Bay County (Florida),12005.0,2019.0,0.000228037,249.0,0.0
+Brevard County (Florida),12009.0,2019.0,0.00020151,128.0,0.0
+Broward County (Florida),12011.0,2019.0,9.46e-05,305.0,0.0
+Citrus County (Florida),12017.0,2019.0,0.000134122,357.0,0.0
+Collier County (Florida),12021.0,2019.0,0.000118406,251.0,0.0
+Columbia County (Florida),12023.0,2019.0,0.000185592,261.0,0.0
+Miami-Dade County (Florida),12086.0,2019.0,0.000118636,301.0,1.0
+Duval County (Florida),12031.0,2019.0,0.000162439,289.0,0.0
+Escambia County (Florida),12033.0,2019.0,0.000218587,172.0,0.0
+Flagler County (Florida),12035.0,2019.0,0.000177024,0.0,0.0
+Hamilton County (Florida),12047.0,2019.0,0.000242887,316.0,0.0
+Highlands County (Florida),12055.0,2019.0,0.000261839,0.0,0.0
+Hillsborough County (Florida),12057.0,2019.0,0.000142791,261.0,0.0
+Holmes County (Florida),12059.0,2019.0,0.000314234,256.0,0.0
+Indian River County (Florida),12061.0,2019.0,0.000213018,0.0,0.0
+Lake County (Florida),12069.0,2019.0,0.000152412,0.0,0.0
+Lee County (Florida),12071.0,2019.0,0.000116228,206.0,4.0
+Leon County (Florida),12073.0,2019.0,0.000119259,280.0,0.0
+Liberty County (Florida),12077.0,2019.0,0.000163117,0.0,0.0
+Manatee County (Florida),12081.0,2019.0,0.000172649,0.0,0.0
+Marion County (Florida),12083.0,2019.0,0.000158506,254.0,0.0
+Martin County (Florida),12085.0,2019.0,0.000164066,237.0,0.0
+Nassau County (Florida),12089.0,2019.0,0.000184833,270.0,0.0
+Okaloosa County (Florida),12091.0,2019.0,0.000180359,0.0,21.0
+Orange County (Florida),12095.0,2019.0,9.93e-05,148.0,0.0
+Osceola County (Florida),12097.0,2019.0,0.000122621,0.0,0.0
+Palm Beach County (Florida),12099.0,2019.0,0.000144465,249.0,0.0
+Pasco County (Florida),12101.0,2019.0,0.000172089,0.0,0.0
+Pinellas County (Florida),12103.0,2019.0,0.000215988,265.0,1.0
+Polk County (Florida),12105.0,2019.0,0.000249654,227.0,0.0
+Putnam County (Florida),12107.0,2019.0,0.00021072,0.0,351.0
+Saint Lucie County (Florida),12111.0,2019.0,0.000153404,0.0,0.0
+Santa Rosa County (Florida),12113.0,2019.0,0.000186593,245.0,0.0
+Sarasota County (Florida),12115.0,2019.0,0.000312097,251.0,0.0
+Seminole County (Florida),12117.0,2019.0,0.00011525,172.0,1.0
+Volusia County (Florida),12127.0,2019.0,0.000219037,201.0,0.0
+Wakulla County (Florida),12129.0,2019.0,0.000127387,207.0,0.0
+Bibb County (Georgia),13021.0,2019.0,0.000277915,270.0,0.0
+Charlton County (Georgia),13049.0,2019.0,0.000203942,103.0,0.0
+Chatham County (Georgia),13051.0,2019.0,0.00021152,265.0,0.0
+Chattooga County (Georgia),13055.0,2019.0,0.000303722,0.0,0.0
+Clarke County (Georgia),13059.0,2019.0,9.19e-05,296.0,0.0
+Clayton County (Georgia),13063.0,2019.0,0.000114247,119.0,0.0
+Cobb County (Georgia),13067.0,2019.0,0.00010683,91.0,0.0
+Coffee County (Georgia),13069.0,2019.0,0.000243271,121.0,0.0
+Columbia County (Georgia),13073.0,2019.0,0.000140787,0.0,0.0
+Dawson County (Georgia),13085.0,2019.0,0.000161152,0.0,0.0
+DeKalb County (Georgia),13089.0,2019.0,9.85e-05,251.0,0.0
+Dougherty County (Georgia),13095.0,2019.0,0.000255102,356.0,0.0
+Douglas County (Georgia),13097.0,2019.0,0.000122919,0.0,0.0
+Floyd County (Georgia),13115.0,2019.0,0.000256666,363.0,0.0
+Fulton County (Georgia),13121.0,2019.0,0.000113443,283.0,0.0
+Glynn County (Georgia),13127.0,2019.0,0.000185599,76.0,0.0
+Gwinnett County (Georgia),13135.0,2019.0,8.17e-05,264.0,0.0
+Hall County (Georgia),13139.0,2019.0,0.00015735,340.0,0.0
+Henry County (Georgia),13151.0,2019.0,0.000141753,244.0,0.0
+Houston County (Georgia),13153.0,2019.0,0.000179982,354.0,0.0
+Lowndes County (Georgia),13185.0,2019.0,0.000156683,310.0,0.0
+Murray County (Georgia),13213.0,2019.0,0.00018548,39.0,0.0
+Muscogee County (Georgia),13215.0,2019.0,0.000212397,273.0,0.0
+Pike County (Georgia),13231.0,2019.0,0.000331064,0.0,0.0
+Richmond County (Georgia),13245.0,2019.0,0.000207692,279.0,18.0
+Rockdale County (Georgia),13247.0,2019.0,0.000153472,0.0,0.0
+Sumter County (Georgia),13261.0,2019.0,0.000292026,0.0,0.0
+Walker County (Georgia),13295.0,2019.0,0.000215454,356.0,0.0
+Washington County (Georgia),13303.0,2019.0,0.000301591,211.0,0.0
+Hawaii County (Hawaii),15001.0,2019.0,0.000238717,365.0,0.0
+Honolulu County (Hawaii),15003.0,2019.0,0.000420391,93.0,1.0
+Kauai County (Hawaii),15007.0,2019.0,0.000241554,259.0,0.0
+Maui County (Hawaii),15009.0,2019.0,0.00015392,362.0,0.0
+Ada County (Idaho),16001.0,2019.0,0.000107264,179.0,0.0
+Bannock County (Idaho),16005.0,2019.0,0.00018839,265.0,100.0
+Benewah County (Idaho),16009.0,2019.0,0.000247251,364.0,0.0
+Blaine County (Idaho),16013.0,2019.0,0.00012019,314.0,0.0
+Boise County (Idaho),16015.0,2019.0,0.000143113,365.0,0.0
+Bonner County (Idaho),16017.0,2019.0,0.000157043,298.0,67.0
+Bonneville County (Idaho),16019.0,2019.0,0.000116265,357.0,0.0
+Butte County (Idaho),16023.0,2019.0,0.000216459,2.0,0.0
+Canyon County (Idaho),16027.0,2019.0,0.000125987,319.0,46.0
+Custer County (Idaho),16037.0,2019.0,0.000205918,96.0,0.0
+Franklin County (Idaho),16041.0,2019.0,0.00020413,364.0,0.0
+Idaho County (Idaho),16049.0,2019.0,0.00028883,230.0,0.0
+Jerome County (Idaho),16053.0,2019.0,0.00014177,353.0,0.0
+Kootenai County (Idaho),16055.0,2019.0,0.000162574,355.0,0.0
+Latah County (Idaho),16057.0,2019.0,0.000119814,350.0,0.0
+Lemhi County (Idaho),16059.0,2019.0,0.000295571,360.0,0.0
+Nez Perce County (Idaho),16069.0,2019.0,0.000276832,360.0,0.0
+Shoshone County (Idaho),16079.0,2019.0,0.000237893,359.0,6.0
+Twin Falls County (Idaho),16083.0,2019.0,0.000189156,365.0,0.0
+Valley County (Idaho),16085.0,2019.0,0.000157943,357.0,0.0
+Adams County (Illinois),17001.0,2019.0,0.000377458,0.0,0.0
+Champaign County (Illinois),17019.0,2019.0,0.000153024,186.0,0.0
+Clark County (Illinois),17023.0,2019.0,0.000277275,0.0,0.0
+Cook County (Illinois),17031.0,2019.0,0.000190361,295.0,4.0
+DuPage County (Illinois),17043.0,2019.0,0.000147751,222.0,0.0
+Effingham County (Illinois),17049.0,2019.0,0.000271669,0.0,0.0
+Hamilton County (Illinois),17065.0,2019.0,0.000364481,207.0,0.0
+Jersey County (Illinois),17083.0,2019.0,0.000279516,177.0,0.0
+Jo Daviess County (Illinois),17085.0,2019.0,0.000218494,0.0,0.0
+Kane County (Illinois),17089.0,2019.0,0.00016085,80.0,0.0
+Lake County (Illinois),17097.0,2019.0,0.000150061,0.0,0.0
+McHenry County (Illinois),17111.0,2019.0,0.000124049,252.0,0.0
+McLean County (Illinois),17113.0,2019.0,0.000129136,248.0,0.0
+Macon County (Illinois),17115.0,2019.0,0.000370015,264.0,0.0
+Macoupin County (Illinois),17117.0,2019.0,0.000337507,0.0,0.0
+Madison County (Illinois),17119.0,2019.0,0.000250237,217.0,2.0
+Peoria County (Illinois),17143.0,2019.0,0.000307301,211.0,0.0
+Randolph County (Illinois),17157.0,2019.0,0.000290891,140.0,0.0
+Rock Island County (Illinois),17161.0,2019.0,0.000261854,227.0,0.0
+Saint Clair County (Illinois),17163.0,2019.0,0.000219918,163.0,0.0
+Sangamon County (Illinois),17167.0,2019.0,0.000282827,238.0,0.0
+Will County (Illinois),17197.0,2019.0,0.000144504,290.0,0.0
+Winnebago County (Illinois),17201.0,2019.0,0.000179204,233.0,0.0
+Allen County (Indiana),18003.0,2019.0,0.000160737,202.0,0.0
+Bartholomew County (Indiana),18005.0,2019.0,0.000190077,161.0,0.0
+Boone County (Indiana),18011.0,2019.0,0.00012344,0.0,0.0
+Brown County (Indiana),18013.0,2019.0,0.000231005,0.0,0.0
+Carroll County (Indiana),18015.0,2019.0,0.000202459,0.0,0.0
+Clark County (Indiana),18019.0,2019.0,0.000281847,171.0,0.0
+Delaware County (Indiana),18035.0,2019.0,0.000244716,80.0,0.0
+Dubois County (Indiana),18037.0,2019.0,0.000225307,119.0,1.0
+Elkhart County (Indiana),18039.0,2019.0,0.000174275,199.0,0.0
+Floyd County (Indiana),18043.0,2019.0,0.000238706,0.0,0.0
+Greene County (Indiana),18055.0,2019.0,0.000246701,63.0,0.0
+Hamilton County (Indiana),18057.0,2019.0,9.5e-05,220.0,0.0
+Hendricks County (Indiana),18063.0,2019.0,0.000155758,0.0,0.0
+Henry County (Indiana),18065.0,2019.0,0.000318925,119.0,0.0
+Howard County (Indiana),18067.0,2019.0,0.000233264,169.0,0.0
+Huntington County (Indiana),18069.0,2019.0,0.000280517,0.0,0.0
+Jackson County (Indiana),18071.0,2019.0,0.000224767,0.0,0.0
+Knox County (Indiana),18083.0,2019.0,0.000258906,0.0,0.0
+Lake County (Indiana),18089.0,2019.0,0.000193261,274.0,3.0
+LaPorte County (Indiana),18091.0,2019.0,0.000200776,47.0,0.0
+Madison County (Indiana),18095.0,2019.0,0.000261988,217.0,0.0
+Marion County (Indiana),18097.0,2019.0,0.000145554,303.0,0.0
+Monroe County (Indiana),18105.0,2019.0,0.000157163,346.0,0.0
+Morgan County (Indiana),18109.0,2019.0,0.000228553,0.0,0.0
+Perry County (Indiana),18123.0,2019.0,0.000253965,0.0,0.0
+Porter County (Indiana),18127.0,2019.0,0.000159777,188.0,13.0
+Posey County (Indiana),18129.0,2019.0,0.00024116,0.0,0.0
+Saint Joseph County (Indiana),18141.0,2019.0,0.000179618,187.0,0.0
+Shelby County (Indiana),18145.0,2019.0,0.000218129,0.0,0.0
+Spencer County (Indiana),18147.0,2019.0,0.000207272,117.0,0.0
+Sullivan County (Indiana),18153.0,2019.0,0.000247666,116.0,0.0
+Tippecanoe County (Indiana),18157.0,2019.0,0.000133682,351.0,0.0
+Vanderburgh County (Indiana),18163.0,2019.0,0.000227988,210.0,0.0
+Vigo County (Indiana),18167.0,2019.0,0.000207885,255.0,0.0
+Wabash County (Indiana),18169.0,2019.0,0.000270752,0.0,0.0
+Warrick County (Indiana),18173.0,2019.0,0.000210776,0.0,0.0
+Whitley County (Indiana),18183.0,2019.0,0.000197987,352.0,0.0
+Black Hawk County (Iowa),19013.0,2019.0,0.000185579,363.0,0.0
+Bremer County (Iowa),19017.0,2019.0,0.000199347,0.0,0.0
+Cerro Gordo County (Iowa),19033.0,2019.0,0.000214136,0.0,118.0
+Clinton County (Iowa),19045.0,2019.0,0.00024032,270.0,0.0
+Harrison County (Iowa),19085.0,2019.0,0.000276853,0.0,0.0
+Johnson County (Iowa),19103.0,2019.0,8.64e-05,364.0,0.0
+Lee County (Iowa),19111.0,2019.0,0.000302895,120.0,0.0
+Linn County (Iowa),19113.0,2019.0,0.00017121,249.0,0.0
+Montgomery County (Iowa),19137.0,2019.0,0.000362802,208.0,0.0
+Muscatine County (Iowa),19139.0,2019.0,0.000187201,365.0,0.0
+Palo Alto County (Iowa),19147.0,2019.0,0.000252427,262.0,0.0
+Polk County (Iowa),19153.0,2019.0,0.000155835,189.0,0.0
+Pottawattamie County (Iowa),19155.0,2019.0,0.000261027,117.0,13.0
+Scott County (Iowa),19163.0,2019.0,0.000169822,216.0,67.0
+Van Buren County (Iowa),19177.0,2019.0,0.000297617,230.0,0.0
+Woodbury County (Iowa),19193.0,2019.0,0.000216101,118.0,0.0
+Chase County (Kansas),20017.0,2019.0,0.000337275,118.0,0.0
+Ford County (Kansas),20057.0,2019.0,0.000190818,0.0,304.0
+Johnson County (Kansas),20091.0,2019.0,0.00014096,116.0,0.0
+Leavenworth County (Kansas),20103.0,2019.0,0.000132303,0.0,0.0
+Neosho County (Kansas),20133.0,2019.0,0.000434232,242.0,1.0
+Sedgwick County (Kansas),20173.0,2019.0,0.00020367,100.0,4.0
+Shawnee County (Kansas),20177.0,2019.0,0.000238571,237.0,0.0
+Sherman County (Kansas),20181.0,2019.0,0.0003446,0.0,358.0
+Sumner County (Kansas),20191.0,2019.0,0.00027834,110.0,8.0
+Trego County (Kansas),20195.0,2019.0,0.000487067,112.0,0.0
+Wyandotte County (Kansas),20209.0,2019.0,0.000153164,185.0,1.0
+Bell County (Kentucky),21013.0,2019.0,0.000417941,41.0,0.0
+Boone County (Kentucky),21015.0,2019.0,0.000147486,0.0,0.0
+Boyd County (Kentucky),21019.0,2019.0,0.000272954,236.0,1.0
+Bullitt County (Kentucky),21029.0,2019.0,0.000171377,0.0,0.0
+Campbell County (Kentucky),21037.0,2019.0,0.000213313,214.0,0.0
+Carter County (Kentucky),21043.0,2019.0,0.000235823,69.0,1.0
+Christian County (Kentucky),21047.0,2019.0,0.00022453,80.0,0.0
+Daviess County (Kentucky),21059.0,2019.0,0.000261451,227.0,0.0
+Edmonson County (Kentucky),21061.0,2019.0,0.000248461,231.0,0.0
+Fayette County (Kentucky),21067.0,2019.0,0.000175979,232.0,0.0
+Greenup County (Kentucky),21089.0,2019.0,0.000302977,0.0,0.0
+Hancock County (Kentucky),21091.0,2019.0,0.000245174,0.0,0.0
+Hardin County (Kentucky),21093.0,2019.0,0.000172508,235.0,0.0
+Henderson County (Kentucky),21101.0,2019.0,0.000256288,59.0,0.0
+Jefferson County (Kentucky),21111.0,2019.0,0.000237933,265.0,0.0
+Jessamine County (Kentucky),21113.0,2019.0,0.00019963,0.0,0.0
+Livingston County (Kentucky),21139.0,2019.0,0.00030246,0.0,19.0
+McCracken County (Kentucky),21145.0,2019.0,0.000268203,257.0,1.0
+Morgan County (Kentucky),21175.0,2019.0,0.000324027,0.0,0.0
+Oldham County (Kentucky),21185.0,2019.0,0.00014078,0.0,0.0
+Perry County (Kentucky),21193.0,2019.0,0.00048538,247.0,0.0
+Pike County (Kentucky),21195.0,2019.0,0.000394074,250.0,0.0
+Pulaski County (Kentucky),21199.0,2019.0,0.000326856,80.0,0.0
+Simpson County (Kentucky),21213.0,2019.0,0.000243537,0.0,0.0
+Trigg County (Kentucky),21221.0,2019.0,0.000321218,0.0,0.0
+Warren County (Kentucky),21227.0,2019.0,0.000180968,250.0,0.0
+Washington County (Kentucky),21229.0,2019.0,0.000341239,0.0,0.0
+Ascension Parish (Louisiana),22005.0,2019.0,0.000117756,0.0,0.0
+Bossier Parish (Louisiana),22015.0,2019.0,0.000197882,175.0,7.0
+Caddo Parish (Louisiana),22017.0,2019.0,0.000232676,105.0,0.0
+Calcasieu Parish (Louisiana),22019.0,2019.0,0.000162374,295.0,0.0
+East Baton Rouge Parish (Louisiana),22033.0,2019.0,0.00017083,260.0,0.0
+Iberville Parish (Louisiana),22047.0,2019.0,0.000164756,81.0,0.0
+Jefferson Parish (Louisiana),22051.0,2019.0,0.000152729,159.0,0.0
+Lafayette Parish (Louisiana),22055.0,2019.0,0.000119522,249.0,0.0
+Lafourche Parish (Louisiana),22057.0,2019.0,0.000192354,279.0,0.0
+Livingston Parish (Louisiana),22063.0,2019.0,0.000135101,262.0,0.0
+Orleans Parish (Louisiana),22071.0,2019.0,0.000127638,307.0,6.0
+Ouachita Parish (Louisiana),22073.0,2019.0,0.000169532,63.0,0.0
+Pointe Coupee Parish (Louisiana),22077.0,2019.0,0.000222173,0.0,0.0
+Rapides Parish (Louisiana),22079.0,2019.0,0.000365522,119.0,0.0
+Saint Bernard Parish (Louisiana),22087.0,2019.0,0.000174417,283.0,0.0
+Saint James Parish (Louisiana),22093.0,2019.0,0.000191495,0.0,0.0
+Saint John the Baptist Parish (Louisiana),22095.0,2019.0,0.000175591,0.0,0.0
+Saint Martin Parish (Louisiana),22099.0,2019.0,0.000192205,0.0,0.0
+Saint Tammany Parish (Louisiana),22103.0,2019.0,0.000177169,176.0,0.0
+Tangipahoa Parish (Louisiana),22105.0,2019.0,0.000208683,117.0,0.0
+Terrebonne Parish (Louisiana),22109.0,2019.0,0.000185443,120.0,0.0
+West Baton Rouge Parish (Louisiana),22121.0,2019.0,0.000156209,263.0,0.0
+Androscoggin County (Maine),23001.0,2019.0,0.000243499,198.0,1.0
+Aroostook County (Maine),23003.0,2019.0,0.000377694,176.0,13.0
+Cumberland County (Maine),23005.0,2019.0,0.000211442,297.0,3.0
+Hancock County (Maine),23009.0,2019.0,0.000280425,42.0,1.0
+Kennebec County (Maine),23011.0,2019.0,0.000232795,21.0,0.0
+Knox County (Maine),23013.0,2019.0,0.000260223,0.0,0.0
+Oxford County (Maine),23017.0,2019.0,0.000274496,186.0,0.0
+Penobscot County (Maine),23019.0,2019.0,0.000310131,182.0,3.0
+Washington County (Maine),23029.0,2019.0,0.000404175,1.0,0.0
+York County (Maine),23031.0,2019.0,0.000230496,0.0,0.0
+Anne Arundel County (Maryland),24003.0,2019.0,0.000176288,0.0,21.0
+Baltimore County (Maryland),24005.0,2019.0,0.000216801,133.0,0.0
+Calvert County (Maryland),24009.0,2019.0,0.000123122,0.0,0.0
+Carroll County (Maryland),24013.0,2019.0,0.000207421,0.0,0.0
+Cecil County (Maryland),24015.0,2019.0,0.000199344,158.0,0.0
+Charles County (Maryland),24017.0,2019.0,0.000129828,0.0,0.0
+Dorchester County (Maryland),24019.0,2019.0,0.000202182,85.0,0.0
+Frederick County (Maryland),24021.0,2019.0,0.000166757,0.0,0.0
+Garrett County (Maryland),24023.0,2019.0,0.000262973,125.0,0.0
+Harford County (Maryland),24025.0,2019.0,0.000197324,149.0,0.0
+Howard County (Maryland),24027.0,2019.0,0.00010886,288.0,0.0
+Kent County (Maryland),24029.0,2019.0,0.000293413,145.0,0.0
+Washington County (Maryland),24043.0,2019.0,0.000209022,187.0,0.0
+Baltimore City (Maryland),24510.0,2019.0,0.000196683,206.0,0.0
+Montgomery County (Maryland),24031.0,2019.0,0.000145462,171.0,0.0
+Prince George's County (Maryland),24033.0,2019.0,0.000145462,118.0,0.0
+Barnstable County (Massachusetts),25001.0,2019.0,0.000338603,6.0,0.0
+Berkshire County (Massachusetts),25003.0,2019.0,0.000328868,213.0,0.0
+Bristol County (Massachusetts),25005.0,2019.0,0.000308771,116.0,0.0
+Dukes County (Massachusetts),25007.0,2019.0,0.000314336,11.0,0.0
+Essex County (Massachusetts),25009.0,2019.0,0.000246839,169.0,0.0
+Franklin County (Massachusetts),25011.0,2019.0,0.00033882,175.0,0.0
+Hampden County (Massachusetts),25013.0,2019.0,0.000251131,201.0,0.0
+Hampshire County (Massachusetts),25015.0,2019.0,0.000225304,132.0,0.0
+Middlesex County (Massachusetts),25017.0,2019.0,0.000188279,189.0,0.0
+Norfolk County (Massachusetts),25021.0,2019.0,0.000237268,0.0,0.0
+Plymouth County (Massachusetts),25023.0,2019.0,0.000275951,170.0,0.0
+Suffolk County (Massachusetts),25025.0,2019.0,0.000141816,297.0,0.0
+Worcester County (Massachusetts),25027.0,2019.0,0.00025325,234.0,0.0
+Allegan County (Michigan),26005.0,2019.0,0.00020008,45.0,0.0
+Bay County (Michigan),26017.0,2019.0,0.000239827,316.0,0.0
+Benzie County (Michigan),26019.0,2019.0,0.00021115,0.0,0.0
+Berrien County (Michigan),26021.0,2019.0,0.000164255,0.0,0.0
+Cass County (Michigan),26027.0,2019.0,0.000183088,0.0,0.0
+Chippewa County (Michigan),26033.0,2019.0,0.000189433,58.0,0.0
+Clinton County (Michigan),26037.0,2019.0,0.000133418,0.0,0.0
+Genesee County (Michigan),26049.0,2019.0,0.000199969,195.0,0.0
+Huron County (Michigan),26063.0,2019.0,0.000317667,0.0,0.0
+Ingham County (Michigan),26065.0,2019.0,0.000165067,219.0,0.0
+Kalamazoo County (Michigan),26077.0,2019.0,0.000198916,223.0,0.0
+Kent County (Michigan),26081.0,2019.0,0.000135747,184.0,4.0
+Keweenaw County (Michigan),26083.0,2019.0,0.000259543,117.0,0.0
+Lenawee County (Michigan),26091.0,2019.0,0.000184599,236.0,0.0
+Macomb County (Michigan),26099.0,2019.0,0.000213658,58.0,0.0
+Manistee County (Michigan),26101.0,2019.0,0.000241528,36.0,0.0
+Mason County (Michigan),26105.0,2019.0,0.000251073,0.0,0.0
+Missaukee County (Michigan),26113.0,2019.0,0.000165873,111.0,0.0
+Monroe County (Michigan),26115.0,2019.0,0.000175713,0.0,61.0
+Muskegon County (Michigan),26121.0,2019.0,0.000159274,0.0,0.0
+Oakland County (Michigan),26125.0,2019.0,0.000179387,65.0,0.0
+Ottawa County (Michigan),26139.0,2019.0,0.000140383,63.0,3.0
+Saint Clair County (Michigan),26147.0,2019.0,0.000157514,227.0,0.0
+Schoolcraft County (Michigan),26153.0,2019.0,0.000340372,142.0,0.0
+Tuscola County (Michigan),26157.0,2019.0,0.000266526,0.0,0.0
+Washtenaw County (Michigan),26161.0,2019.0,0.000113126,191.0,0.0
+Wayne County (Michigan),26163.0,2019.0,0.000241479,325.0,8.0
+Wexford County (Michigan),26165.0,2019.0,0.000156496,0.0,0.0
+Anoka County (Minnesota),27003.0,2019.0,9.05e-05,152.0,0.0
+Becker County (Minnesota),27005.0,2019.0,0.000204229,190.0,0.0
+Beltrami County (Minnesota),27007.0,2019.0,0.000210121,352.0,0.0
+Carlton County (Minnesota),27017.0,2019.0,0.000184658,150.0,0.0
+Cass County (Minnesota),27021.0,2019.0,0.00023271,350.0,0.0
+Cook County (Minnesota),27031.0,2019.0,0.000186733,334.0,0.0
+Crow Wing County (Minnesota),27035.0,2019.0,0.000186957,197.0,0.0
+Dakota County (Minnesota),27037.0,2019.0,9.3e-05,342.0,0.0
+Goodhue County (Minnesota),27049.0,2019.0,0.000143306,0.0,0.0
+Hennepin County (Minnesota),27053.0,2019.0,0.000122724,230.0,91.0
+Lake County (Minnesota),27075.0,2019.0,0.000262228,213.0,33.0
+Lyon County (Minnesota),27083.0,2019.0,0.000188065,199.0,0.0
+Mille Lacs County (Minnesota),27095.0,2019.0,0.000225112,0.0,0.0
+Olmsted County (Minnesota),27109.0,2019.0,8.4e-05,227.0,0.0
+Ramsey County (Minnesota),27123.0,2019.0,0.000133778,346.0,19.0
+Saint Louis County (Minnesota),27137.0,2019.0,0.00018617,203.0,9.0
+Scott County (Minnesota),27139.0,2019.0,7.64e-05,173.0,0.0
+Stearns County (Minnesota),27145.0,2019.0,0.000133768,150.0,0.0
+Washington County (Minnesota),27163.0,2019.0,8.63e-05,89.0,1.0
+Winona County (Minnesota),27169.0,2019.0,0.000115736,115.0,0.0
+Wright County (Minnesota),27171.0,2019.0,0.000100992,163.0,0.0
+Bolivar County (Mississippi),28011.0,2019.0,0.000339695,269.0,0.0
+DeSoto County (Mississippi),28033.0,2019.0,0.000231493,271.0,0.0
+Forrest County (Mississippi),28035.0,2019.0,0.000390893,358.0,0.0
+Hancock County (Mississippi),28045.0,2019.0,0.00030135,243.0,0.0
+Harrison County (Mississippi),28047.0,2019.0,0.000349727,294.0,0.0
+Hinds County (Mississippi),28049.0,2019.0,0.000234183,295.0,0.0
+Jackson County (Mississippi),28059.0,2019.0,0.000245897,271.0,0.0
+Lauderdale County (Mississippi),28075.0,2019.0,0.000514325,0.0,0.0
+Lee County (Mississippi),28081.0,2019.0,0.00027901,0.0,0.0
+Yalobusha County (Mississippi),28161.0,2019.0,0.000362309,0.0,0.0
+Andrew County (Missouri),29003.0,2019.0,0.000204301,0.0,0.0
+Boone County (Missouri),29019.0,2019.0,0.000153415,0.0,0.0
+Buchanan County (Missouri),29021.0,2019.0,0.000259384,327.0,38.0
+Callaway County (Missouri),29027.0,2019.0,0.000226645,0.0,0.0
+Cass County (Missouri),29037.0,2019.0,0.000204806,192.0,0.0
+Cedar County (Missouri),29039.0,2019.0,0.000460923,223.0,0.0
+Clay County (Missouri),29047.0,2019.0,0.000184286,162.0,0.0
+Clinton County (Missouri),29049.0,2019.0,0.000294274,0.0,0.0
+Greene County (Missouri),29077.0,2019.0,0.00022605,208.0,14.0
+Jackson County (Missouri),29095.0,2019.0,0.0001899,330.0,16.0
+Jasper County (Missouri),29097.0,2019.0,0.000307852,0.0,145.0
+Jefferson County (Missouri),29099.0,2019.0,0.000237537,167.0,12.0
+Lincoln County (Missouri),29113.0,2019.0,0.000230393,0.0,0.0
+Monroe County (Missouri),29137.0,2019.0,0.000478152,0.0,0.0
+Perry County (Missouri),29157.0,2019.0,0.000220007,0.0,0.0
+Saint Charles County (Missouri),29183.0,2019.0,0.000198851,0.0,0.0
+Sainte Genevieve County (Missouri),29186.0,2019.0,0.000183595,0.0,0.0
+Saint Louis County (Missouri),29189.0,2019.0,0.000236302,234.0,0.0
+Stoddard County (Missouri),29207.0,2019.0,0.000418153,107.0,0.0
+Taney County (Missouri),29213.0,2019.0,0.000268812,120.0,0.0
+Saint Louis City (Missouri),29510.0,2019.0,0.000169281,264.0,6.0
+Cascade County (Montana),30013.0,2019.0,0.000166983,363.0,0.0
+Fergus County (Montana),30027.0,2019.0,0.000278396,50.0,2.0
+Flathead County (Montana),30029.0,2019.0,0.000189705,143.0,24.0
+Gallatin County (Montana),30031.0,2019.0,9.49e-05,346.0,0.0
+Lake County (Montana),30047.0,2019.0,0.000229876,93.0,0.0
+Lewis and Clark County (Montana),30049.0,2019.0,0.000168624,165.0,0.0
+Lincoln County (Montana),30053.0,2019.0,0.000197528,353.0,11.0
+Missoula County (Montana),30063.0,2019.0,0.000132831,364.0,1.0
+Phillips County (Montana),30071.0,2019.0,0.000325012,70.0,0.0
+Powder River County (Montana),30075.0,2019.0,0.000351048,84.0,5.0
+Powell County (Montana),30077.0,2019.0,0.000198645,109.0,0.0
+Ravalli County (Montana),30081.0,2019.0,0.000204416,364.0,0.0
+Richland County (Montana),30083.0,2019.0,0.000204289,85.0,5.0
+Roosevelt County (Montana),30085.0,2019.0,0.000234555,93.0,0.0
+Rosebud County (Montana),30087.0,2019.0,0.000242173,64.0,30.0
+Sanders County (Montana),30089.0,2019.0,0.000248463,357.0,8.0
+Sheridan County (Montana),30091.0,2019.0,0.000516062,104.0,0.0
+Silver Bow County (Montana),30093.0,2019.0,0.000188791,236.0,127.0
+Yellowstone County (Montana),30111.0,2019.0,0.000165311,292.0,0.0
+Cass County (Nebraska),31025.0,2019.0,0.000220467,0.0,348.0
+Douglas County (Nebraska),31055.0,2019.0,0.000182219,207.0,2.0
+Hall County (Nebraska),31079.0,2019.0,0.000192521,97.0,0.0
+Knox County (Nebraska),31107.0,2019.0,0.0004325,0.0,0.0
+Lancaster County (Nebraska),31109.0,2019.0,0.000161446,74.0,0.0
+Sarpy County (Nebraska),31153.0,2019.0,0.00015665,350.0,0.0
+Scotts Bluff County (Nebraska),31157.0,2019.0,0.000248924,113.0,0.0
+Washington County (Nebraska),31177.0,2019.0,0.000256685,116.0,0.0
+Churchill County (Nevada),32001.0,2019.0,0.000309349,0.0,0.0
+Clark County (Nevada),32003.0,2019.0,0.000179261,110.0,8.0
+Douglas County (Nevada),32005.0,2019.0,0.000226188,356.0,0.0
+Elko County (Nevada),32007.0,2019.0,0.000176921,23.0,330.0
+Lyon County (Nevada),32019.0,2019.0,0.000254537,0.0,10.0
+Nye County (Nevada),32023.0,2019.0,0.000388223,0.0,365.0
+Washoe County (Nevada),32031.0,2019.0,0.000191532,87.0,3.0
+White Pine County (Nevada),32033.0,2019.0,0.000230174,1.0,0.0
+Carson City (Nevada),32510.0,2019.0,0.000246732,88.0,0.0
+Belknap County (New Hampshire),33001.0,2019.0,0.000258267,159.0,0.0
+Cheshire County (New Hampshire),33005.0,2019.0,0.000241342,111.0,0.0
+Coos County (New Hampshire),33007.0,2019.0,0.000290483,20.0,0.0
+Grafton County (New Hampshire),33009.0,2019.0,0.000208958,117.0,0.0
+Hillsborough County (New Hampshire),33011.0,2019.0,0.000191738,28.0,0.0
+Merrimack County (New Hampshire),33013.0,2019.0,0.000189903,0.0,0.0
+Rockingham County (New Hampshire),33015.0,2019.0,0.000187031,110.0,0.0
+Atlantic County (New Jersey),34001.0,2019.0,0.000206233,187.0,0.0
+Bergen County (New Jersey),34003.0,2019.0,0.000183192,277.0,0.0
+Camden County (New Jersey),34007.0,2019.0,0.000190581,233.0,0.0
+Cumberland County (New Jersey),34011.0,2019.0,0.000231927,156.0,0.0
+Essex County (New Jersey),34013.0,2019.0,0.000177571,201.0,0.0
+Gloucester County (New Jersey),34015.0,2019.0,0.00019657,73.0,0.0
+Hudson County (New Jersey),34017.0,2019.0,0.000131664,230.0,0.0
+Hunterdon County (New Jersey),34019.0,2019.0,0.000188196,184.0,0.0
+Mercer County (New Jersey),34021.0,2019.0,0.000169742,169.0,0.0
+Middlesex County (New Jersey),34023.0,2019.0,0.000187519,174.0,0.0
+Monmouth County (New Jersey),34025.0,2019.0,0.000178982,0.0,0.0
+Morris County (New Jersey),34027.0,2019.0,0.000171386,31.0,0.0
+Ocean County (New Jersey),34029.0,2019.0,0.00022364,158.0,0.0
+Passaic County (New Jersey),34031.0,2019.0,0.00016108,68.0,0.0
+Union County (New Jersey),34039.0,2019.0,0.00018043,332.0,0.0
+Warren County (New Jersey),34041.0,2019.0,0.000232111,217.0,0.0
+Bernalillo County (New Mexico),35001.0,2019.0,0.000144019,110.0,36.0
+Catron County (New Mexico),35003.0,2019.0,0.00032372,111.0,0.0
+Chaves County (New Mexico),35005.0,2019.0,0.000203318,118.0,0.0
+Dona Ana County (New Mexico),35013.0,2019.0,0.000191604,60.0,57.0
+Eddy County (New Mexico),35015.0,2019.0,0.000187724,4.0,0.0
+Lea County (New Mexico),35025.0,2019.0,0.000150327,109.0,0.0
+Lincoln County (New Mexico),35027.0,2019.0,0.000216083,107.0,0.0
+Los Alamos County (New Mexico),35028.0,2019.0,0.000126478,117.0,0.0
+Luna County (New Mexico),35029.0,2019.0,0.000313443,0.0,361.0
+Rio Arriba County (New Mexico),35039.0,2019.0,0.00020884,4.0,0.0
+Sandoval County (New Mexico),35043.0,2019.0,0.000141306,11.0,2.0
+San Juan County (New Mexico),35045.0,2019.0,0.000176857,0.0,0.0
+Santa Fe County (New Mexico),35049.0,2019.0,0.000132293,13.0,0.0
+Socorro County (New Mexico),35053.0,2019.0,0.000215078,92.0,0.0
+Taos County (New Mexico),35055.0,2019.0,0.000217377,358.0,0.0
+Valencia County (New Mexico),35061.0,2019.0,0.000180673,0.0,0.0
+Albany County (New York),36001.0,2019.0,0.000261661,214.0,0.0
+Bronx County (New York),36005.0,2019.0,0.000246923,223.0,0.0
+Chautauqua County (New York),36013.0,2019.0,0.000287873,41.0,0.0
+Dutchess County (New York),36027.0,2019.0,0.00022164,0.0,0.0
+Erie County (New York),36029.0,2019.0,0.000264862,223.0,0.0
+Essex County (New York),36031.0,2019.0,0.000250333,7.0,0.0
+Franklin County (New York),36033.0,2019.0,0.0002316,0.0,0.0
+Hamilton County (New York),36041.0,2019.0,0.000335167,0.0,0.0
+Herkimer County (New York),36043.0,2019.0,0.000335004,0.0,0.0
+Jefferson County (New York),36045.0,2019.0,0.000164525,0.0,0.0
+Kings County (New York),36047.0,2019.0,0.000197212,365.0,0.0
+Monroe County (New York),36055.0,2019.0,0.000250526,225.0,0.0
+Nassau County (New York),36059.0,2019.0,0.000186523,360.0,0.0
+New York County (New York),36061.0,2019.0,0.000146839,241.0,0.0
+Niagara County (New York),36063.0,2019.0,0.000250298,0.0,0.0
+Oneida County (New York),36065.0,2019.0,0.000303814,355.0,0.0
+Onondaga County (New York),36067.0,2019.0,0.000269653,144.0,0.0
+Orange County (New York),36071.0,2019.0,0.000201624,163.0,0.0
+Oswego County (New York),36075.0,2019.0,0.000252268,0.0,0.0
+Putnam County (New York),36079.0,2019.0,0.000197605,0.0,0.0
+Queens County (New York),36081.0,2019.0,0.000194095,182.0,0.0
+Richmond County (New York),36085.0,2019.0,0.000198285,188.0,0.0
+Rockland County (New York),36087.0,2019.0,0.000253228,97.0,0.0
+Saratoga County (New York),36091.0,2019.0,0.00022464,0.0,0.0
+Steuben County (New York),36101.0,2019.0,0.000255306,157.0,0.0
+Suffolk County (New York),36103.0,2019.0,0.000227605,104.0,0.0
+Tompkins County (New York),36109.0,2019.0,0.000160766,0.0,0.0
+Wayne County (New York),36117.0,2019.0,0.000250184,0.0,0.0
+Westchester County (New York),36119.0,2019.0,0.000216334,103.0,0.0
+Alexander County (North Carolina),37003.0,2019.0,0.00032316,0.0,60.0
+Avery County (North Carolina),37011.0,2019.0,0.000478896,14.0,0.0
+Buncombe County (North Carolina),37021.0,2019.0,0.000263672,219.0,0.0
+Caldwell County (North Carolina),37027.0,2019.0,0.000300957,0.0,0.0
+Carteret County (North Carolina),37031.0,2019.0,0.000267962,0.0,0.0
+Caswell County (North Carolina),37033.0,2019.0,0.00029544,0.0,0.0
+Catawba County (North Carolina),37035.0,2019.0,0.000307386,361.0,0.0
+Cumberland County (North Carolina),37051.0,2019.0,0.000199024,204.0,3.0
+Davidson County (North Carolina),37057.0,2019.0,0.000292514,350.0,0.0
+Durham County (North Carolina),37063.0,2019.0,0.000120699,226.0,0.0
+Edgecombe County (North Carolina),37065.0,2019.0,0.000294536,227.0,0.0
+Forsyth County (North Carolina),37067.0,2019.0,0.00024156,245.0,0.0
+Graham County (North Carolina),37075.0,2019.0,0.000347072,0.0,0.0
+Granville County (North Carolina),37077.0,2019.0,0.000213736,0.0,0.0
+Guilford County (North Carolina),37081.0,2019.0,0.000244828,166.0,19.0
+Haywood County (North Carolina),37087.0,2019.0,0.000444084,32.0,0.0
+Hyde County (North Carolina),37095.0,2019.0,0.0002419,102.0,0.0
+Jackson County (North Carolina),37099.0,2019.0,0.000238981,103.0,0.0
+Johnston County (North Carolina),37101.0,2019.0,0.000191033,257.0,0.0
+Lenoir County (North Carolina),37107.0,2019.0,0.000284406,0.0,0.0
+Lincoln County (North Carolina),37109.0,2019.0,0.000196546,0.0,0.0
+Macon County (North Carolina),37113.0,2019.0,0.000314756,0.0,0.0
+Martin County (North Carolina),37117.0,2019.0,0.000306392,0.0,58.0
+Mecklenburg County (North Carolina),37119.0,2019.0,0.000121553,218.0,0.0
+Mitchell County (North Carolina),37121.0,2019.0,0.00038622,333.0,0.0
+Montgomery County (North Carolina),37123.0,2019.0,0.000307843,212.0,0.0
+New Hanover County (North Carolina),37129.0,2019.0,0.000188085,139.0,0.0
+Northampton County (North Carolina),37131.0,2019.0,0.000321169,142.0,0.0
+Person County (North Carolina),37145.0,2019.0,0.000255093,0.0,0.0
+Pitt County (North Carolina),37147.0,2019.0,0.000130726,196.0,0.0
+Rockingham County (North Carolina),37157.0,2019.0,0.00037767,0.0,0.0
+Rowan County (North Carolina),37159.0,2019.0,0.000396496,46.0,0.0
+Swain County (North Carolina),37173.0,2019.0,0.000365653,241.0,0.0
+Union County (North Carolina),37179.0,2019.0,0.000141889,0.0,0.0
+Wake County (North Carolina),37183.0,2019.0,9.95e-05,273.0,0.0
+Yancey County (North Carolina),37199.0,2019.0,0.000347295,0.0,0.0
+Burke County (North Dakota),38013.0,2019.0,0.000283981,62.0,0.0
+Burleigh County (North Dakota),38015.0,2019.0,0.000182436,205.0,0.0
+Cass County (North Dakota),38017.0,2019.0,0.000150159,159.0,0.0
+Dunn County (North Dakota),38025.0,2019.0,0.000196419,62.0,0.0
+McKenzie County (North Dakota),38053.0,2019.0,0.000116907,55.0,0.0
+Mercer County (North Dakota),38057.0,2019.0,0.000251795,161.0,0.0
+Oliver County (North Dakota),38065.0,2019.0,0.000218538,64.0,0.0
+Ward County (North Dakota),38101.0,2019.0,0.000256547,138.0,4.0
+Williams County (North Dakota),38105.0,2019.0,0.000185132,97.0,2.0
+Adams County (Ohio),39001.0,2019.0,0.000326526,327.0,0.0
+Allen County (Ohio),39003.0,2019.0,0.000323401,165.0,0.0
+Ashtabula County (Ohio),39007.0,2019.0,0.000318747,0.0,0.0
+Athens County (Ohio),39009.0,2019.0,0.000206976,120.0,0.0
+Belmont County (Ohio),39013.0,2019.0,0.00038085,91.0,9.0
+Butler County (Ohio),39017.0,2019.0,0.000202761,92.0,5.0
+Clark County (Ohio),39023.0,2019.0,0.000305812,260.0,0.0
+Clermont County (Ohio),39025.0,2019.0,0.00024042,181.0,0.0
+Clinton County (Ohio),39027.0,2019.0,0.000263792,0.0,0.0
+Columbiana County (Ohio),39029.0,2019.0,0.000326083,0.0,62.0
+Cuyahoga County (Ohio),39035.0,2019.0,0.000210256,277.0,10.0
+Delaware County (Ohio),39041.0,2019.0,0.000120639,0.0,0.0
+Fayette County (Ohio),39047.0,2019.0,0.000342463,0.0,0.0
+Franklin County (Ohio),39049.0,2019.0,0.000186002,253.0,1.0
+Geauga County (Ohio),39055.0,2019.0,0.000219442,0.0,0.0
+Greene County (Ohio),39057.0,2019.0,0.000179568,0.0,0.0
+Hamilton County (Ohio),39061.0,2019.0,0.000213498,273.0,0.0
+Harrison County (Ohio),39067.0,2019.0,0.000336086,57.0,0.0
+Jefferson County (Ohio),39081.0,2019.0,0.000417987,317.0,0.0
+Knox County (Ohio),39083.0,2019.0,0.000236504,0.0,0.0
+Lake County (Ohio),39085.0,2019.0,0.000237378,178.0,0.0
+Lawrence County (Ohio),39087.0,2019.0,0.000288668,234.0,0.0
+Licking County (Ohio),39089.0,2019.0,0.000222946,0.0,0.0
+Lorain County (Ohio),39093.0,2019.0,0.0002247,209.0,0.0
+Lucas County (Ohio),39095.0,2019.0,0.000176982,234.0,0.0
+Madison County (Ohio),39097.0,2019.0,0.000216368,0.0,0.0
+Mahoning County (Ohio),39099.0,2019.0,0.000315871,267.0,0.0
+Medina County (Ohio),39103.0,2019.0,0.000153483,254.0,0.0
+Miami County (Ohio),39109.0,2019.0,0.000306658,0.0,0.0
+Montgomery County (Ohio),39113.0,2019.0,0.000196933,264.0,0.0
+Noble County (Ohio),39121.0,2019.0,0.000310691,35.0,0.0
+Portage County (Ohio),39133.0,2019.0,0.00020346,68.0,0.0
+Preble County (Ohio),39135.0,2019.0,0.000214513,217.0,0.0
+Scioto County (Ohio),39145.0,2019.0,0.000236998,111.0,254.0
+Stark County (Ohio),39151.0,2019.0,0.00024377,250.0,0.0
+Summit County (Ohio),39153.0,2019.0,0.000219906,246.0,0.0
+Trumbull County (Ohio),39155.0,2019.0,0.000348224,200.0,0.0
+Warren County (Ohio),39165.0,2019.0,0.000169484,212.0,0.0
+Washington County (Ohio),39167.0,2019.0,0.000314608,0.0,0.0
+Wood County (Ohio),39173.0,2019.0,0.00015589,0.0,0.0
+Adair County (Oklahoma),40001.0,2019.0,0.000162208,148.0,1.0
+Canadian County (Oklahoma),40017.0,2019.0,0.000123144,0.0,0.0
+Carter County (Oklahoma),40019.0,2019.0,0.000209949,208.0,0.0
+Choctaw County (Oklahoma),40023.0,2019.0,0.000245539,0.0,0.0
+Cleveland County (Oklahoma),40027.0,2019.0,0.000123192,234.0,0.0
+Comanche County (Oklahoma),40031.0,2019.0,0.000183961,210.0,0.0
+Creek County (Oklahoma),40037.0,2019.0,0.00021305,0.0,0.0
+Custer County (Oklahoma),40039.0,2019.0,0.000238843,0.0,236.0
+Dewey County (Oklahoma),40043.0,2019.0,0.000234245,199.0,0.0
+Grant County (Oklahoma),40053.0,2019.0,0.000246577,27.0,0.0
+Johnston County (Oklahoma),40069.0,2019.0,0.000231021,0.0,0.0
+Kay County (Oklahoma),40071.0,2019.0,0.00026566,296.0,0.0
+Le Flore County (Oklahoma),40079.0,2019.0,0.000253017,36.0,2.0
+Mayes County (Oklahoma),40097.0,2019.0,0.000199035,0.0,0.0
+Muskogee County (Oklahoma),40101.0,2019.0,0.000300994,0.0,134.0
+Nowata County (Oklahoma),40105.0,2019.0,0.000318523,213.0,0.0
+Oklahoma County (Oklahoma),40109.0,2019.0,0.000149281,230.0,1.0
+Osage County (Oklahoma),40113.0,2019.0,0.00018839,0.0,0.0
+Ottawa County (Oklahoma),40115.0,2019.0,0.00034508,277.0,29.0
+Pittsburg County (Oklahoma),40121.0,2019.0,0.000237736,182.0,0.0
+Sequoyah County (Oklahoma),40135.0,2019.0,0.000264463,210.0,0.0
+Tulsa County (Oklahoma),40143.0,2019.0,0.000182595,232.0,0.0
+Baker County (Oregon),41001.0,2019.0,0.00019711,360.0,0.0
+Benton County (Oregon),41003.0,2019.0,0.000130493,365.0,0.0
+Clackamas County (Oregon),41005.0,2019.0,0.00013783,95.0,0.0
+Columbia County (Oregon),41009.0,2019.0,0.000134807,235.0,0.0
+Coos County (Oregon),41011.0,2019.0,0.000228853,107.0,0.0
+Crook County (Oregon),41013.0,2019.0,0.000162666,365.0,0.0
+Deschutes County (Oregon),41017.0,2019.0,0.000120548,365.0,0.0
+Douglas County (Oregon),41019.0,2019.0,0.000199757,347.0,0.0
+Grant County (Oregon),41023.0,2019.0,0.00029747,349.0,0.0
+Harney County (Oregon),41025.0,2019.0,0.000224344,364.0,0.0
+Jackson County (Oregon),41029.0,2019.0,0.000197105,242.0,0.0
+Jefferson County (Oregon),41031.0,2019.0,0.00013281,365.0,0.0
+Josephine County (Oregon),41033.0,2019.0,0.000257603,365.0,0.0
+Klamath County (Oregon),41035.0,2019.0,0.000196176,365.0,0.0
+Lake County (Oregon),41037.0,2019.0,0.000265938,363.0,0.0
+Lane County (Oregon),41039.0,2019.0,0.000158899,308.0,7.0
+Linn County (Oregon),41043.0,2019.0,0.000169962,365.0,0.0
+Marion County (Oregon),41047.0,2019.0,0.000152782,248.0,0.0
+Multnomah County (Oregon),41051.0,2019.0,0.000130309,194.0,0.0
+Umatilla County (Oregon),41059.0,2019.0,0.000153414,223.0,0.0
+Union County (Oregon),41061.0,2019.0,0.000230924,364.0,1.0
+Wallowa County (Oregon),41063.0,2019.0,0.000259401,363.0,0.0
+Wasco County (Oregon),41065.0,2019.0,0.000188685,350.0,0.0
+Washington County (Oregon),41067.0,2019.0,9.27e-05,260.0,1.0
+Adams County (Pennsylvania),42001.0,2019.0,0.000227921,155.0,0.0
+Allegheny County (Pennsylvania),42003.0,2019.0,0.000252331,326.0,0.0
+Armstrong County (Pennsylvania),42005.0,2019.0,0.000353226,211.0,0.0
+Beaver County (Pennsylvania),42007.0,2019.0,0.000342274,215.0,0.0
+Berks County (Pennsylvania),42011.0,2019.0,0.000231408,198.0,0.0
+Blair County (Pennsylvania),42013.0,2019.0,0.000326711,205.0,0.0
+Bradford County (Pennsylvania),42015.0,2019.0,0.000242314,195.0,0.0
+Bucks County (Pennsylvania),42017.0,2019.0,0.000237491,0.0,0.0
+Cambria County (Pennsylvania),42021.0,2019.0,0.000397907,250.0,0.0
+Centre County (Pennsylvania),42027.0,2019.0,0.000184081,245.0,0.0
+Chester County (Pennsylvania),42029.0,2019.0,0.000164555,168.0,0.0
+Clearfield County (Pennsylvania),42033.0,2019.0,0.000307034,0.0,0.0
+Cumberland County (Pennsylvania),42041.0,2019.0,0.00025655,365.0,0.0
+Dauphin County (Pennsylvania),42043.0,2019.0,0.000236285,202.0,1.0
+Delaware County (Pennsylvania),42045.0,2019.0,0.000236283,228.0,0.0
+Elk County (Pennsylvania),42047.0,2019.0,0.000320709,0.0,0.0
+Erie County (Pennsylvania),42049.0,2019.0,0.000285513,186.0,0.0
+Fayette County (Pennsylvania),42051.0,2019.0,0.000282446,168.0,0.0
+Franklin County (Pennsylvania),42055.0,2019.0,0.00024495,0.0,0.0
+Greene County (Pennsylvania),42059.0,2019.0,0.000298396,159.0,0.0
+Indiana County (Pennsylvania),42063.0,2019.0,0.000328243,0.0,0.0
+Lackawanna County (Pennsylvania),42069.0,2019.0,0.000270087,120.0,0.0
+Lancaster County (Pennsylvania),42071.0,2019.0,0.000179265,261.0,0.0
+Lawrence County (Pennsylvania),42073.0,2019.0,0.000371865,0.0,0.0
+Lebanon County (Pennsylvania),42075.0,2019.0,0.000306543,225.0,0.0
+Lehigh County (Pennsylvania),42077.0,2019.0,0.000190751,199.0,2.0
+Luzerne County (Pennsylvania),42079.0,2019.0,0.000256652,0.0,9.0
+Lycoming County (Pennsylvania),42081.0,2019.0,0.000198518,92.0,0.0
+Mercer County (Pennsylvania),42085.0,2019.0,0.000309485,184.0,0.0
+Monroe County (Pennsylvania),42089.0,2019.0,0.000164747,0.0,0.0
+Montgomery County (Pennsylvania),42091.0,2019.0,0.000221373,199.0,0.0
+Northampton County (Pennsylvania),42095.0,2019.0,0.000201897,197.0,0.0
+Philadelphia County (Pennsylvania),42101.0,2019.0,0.000170584,222.0,0.0
+Somerset County (Pennsylvania),42111.0,2019.0,0.000360814,0.0,0.0
+Susquehanna County (Pennsylvania),42115.0,2019.0,0.000251105,352.0,0.0
+Tioga County (Pennsylvania),42117.0,2019.0,0.000277893,120.0,0.0
+Washington County (Pennsylvania),42125.0,2019.0,0.000284907,255.0,0.0
+Westmoreland County (Pennsylvania),42129.0,2019.0,0.000347833,159.0,0.0
+Wyoming County (Pennsylvania),42131.0,2019.0,0.000256831,27.0,0.0
+York County (Pennsylvania),42133.0,2019.0,0.000242907,188.0,0.0
+Kent County (Rhode Island),44003.0,2019.0,0.000251826,155.0,0.0
+Providence County (Rhode Island),44007.0,2019.0,0.000180888,206.0,0.0
+Washington County (Rhode Island),44009.0,2019.0,0.000211577,150.0,0.0
+Aiken County (South Carolina),45003.0,2019.0,0.000204379,0.0,0.0
+Anderson County (South Carolina),45007.0,2019.0,0.000186107,0.0,0.0
+Berkeley County (South Carolina),45015.0,2019.0,0.000134914,0.0,0.0
+Charleston County (South Carolina),45019.0,2019.0,0.000138771,315.0,1.0
+Chesterfield County (South Carolina),45025.0,2019.0,0.000287551,245.0,0.0
+Colleton County (South Carolina),45029.0,2019.0,0.000233771,7.0,0.0
+Darlington County (South Carolina),45031.0,2019.0,0.000264391,0.0,0.0
+Edgefield County (South Carolina),45037.0,2019.0,0.000187503,314.0,0.0
+Florence County (South Carolina),45041.0,2019.0,0.000231524,361.0,0.0
+Georgetown County (South Carolina),45043.0,2019.0,0.000220149,0.0,92.0
+Greenville County (South Carolina),45045.0,2019.0,0.000144447,288.0,8.0
+Horry County (South Carolina),45051.0,2019.0,0.000186003,0.0,0.0
+Lexington County (South Carolina),45063.0,2019.0,0.000155402,360.0,5.0
+Oconee County (South Carolina),45073.0,2019.0,0.000230449,238.0,0.0
+Pickens County (South Carolina),45077.0,2019.0,0.000204809,0.0,0.0
+Richland County (South Carolina),45079.0,2019.0,0.00013062,267.0,0.0
+Spartanburg County (South Carolina),45083.0,2019.0,0.000211942,285.0,0.0
+York County (South Carolina),45091.0,2019.0,0.000159373,219.0,0.0
+Brookings County (South Dakota),46011.0,2019.0,0.000143949,44.0,10.0
+Brown County (South Dakota),46013.0,2019.0,0.000302212,119.0,3.0
+Codington County (South Dakota),46029.0,2019.0,0.000277838,316.0,45.0
+Custer County (South Dakota),46033.0,2019.0,0.000340487,22.0,0.0
+Hughes County (South Dakota),46065.0,2019.0,0.000389198,356.0,0.0
+Meade County (South Dakota),46093.0,2019.0,0.00019079,0.0,4.0
+Minnehaha County (South Dakota),46099.0,2019.0,0.000160933,91.0,2.0
+Pennington County (South Dakota),46103.0,2019.0,0.00019701,175.0,176.0
+Union County (South Dakota),46127.0,2019.0,0.000222419,121.0,8.0
+Jackson County (South Dakota),46071.0,2019.0,0.000263131,35.0,0.0
+Anderson County (Tennessee),47001.0,2019.0,0.000333822,0.0,0.0
+Blount County (Tennessee),47009.0,2019.0,0.000351821,185.0,0.0
+Claiborne County (Tennessee),47025.0,2019.0,0.000615809,0.0,0.0
+Davidson County (Tennessee),47037.0,2019.0,0.000155644,292.0,0.0
+DeKalb County (Tennessee),47041.0,2019.0,0.000338045,0.0,0.0
+Dyer County (Tennessee),47045.0,2019.0,0.000424541,360.0,0.0
+Hamilton County (Tennessee),47065.0,2019.0,0.000162736,238.0,0.0
+Jefferson County (Tennessee),47089.0,2019.0,0.000363087,0.0,0.0
+Knox County (Tennessee),47093.0,2019.0,0.000265995,232.0,4.0
+Lawrence County (Tennessee),47099.0,2019.0,0.000419474,330.0,0.0
+Loudon County (Tennessee),47105.0,2019.0,0.000334914,245.0,0.0
+McMinn County (Tennessee),47107.0,2019.0,0.000344293,357.0,0.0
+Madison County (Tennessee),47113.0,2019.0,0.000288527,362.0,0.0
+Maury County (Tennessee),47119.0,2019.0,0.000346796,362.0,0.0
+Montgomery County (Tennessee),47125.0,2019.0,0.000121195,362.0,0.0
+Putnam County (Tennessee),47141.0,2019.0,0.000350903,360.0,0.0
+Roane County (Tennessee),47145.0,2019.0,0.000298759,356.0,0.0
+Sevier County (Tennessee),47155.0,2019.0,0.000268275,0.0,0.0
+Shelby County (Tennessee),47157.0,2019.0,0.000225688,243.0,1.0
+Sullivan County (Tennessee),47163.0,2019.0,0.000379109,204.0,0.0
+Sumner County (Tennessee),47165.0,2019.0,0.000203645,197.0,0.0
+Williamson County (Tennessee),47187.0,2019.0,0.000119125,0.0,0.0
+Wilson County (Tennessee),47189.0,2019.0,0.000213683,0.0,0.0
+Bell County (Texas),48027.0,2019.0,0.000136493,153.0,0.0
+Bexar County (Texas),48029.0,2019.0,0.000114423,271.0,1.0
+Bowie County (Texas),48037.0,2019.0,0.000180728,349.0,0.0
+Brazoria County (Texas),48039.0,2019.0,0.000131435,0.0,0.0
+Brewster County (Texas),48043.0,2019.0,0.000230943,105.0,0.0
+Cameron County (Texas),48061.0,2019.0,0.000127369,282.0,0.0
+Collin County (Texas),48085.0,2019.0,9.51e-05,0.0,0.0
+Culberson County (Texas),48109.0,2019.0,0.000295976,74.0,0.0
+Dallas County (Texas),48113.0,2019.0,0.000130482,222.0,0.0
+Denton County (Texas),48121.0,2019.0,9.17e-05,128.0,0.0
+Ector County (Texas),48135.0,2019.0,0.000135019,354.0,0.0
+Ellis County (Texas),48139.0,2019.0,0.000138875,172.0,0.0
+El Paso County (Texas),48141.0,2019.0,0.000128569,214.0,3.0
+Galveston County (Texas),48167.0,2019.0,0.000159679,143.0,1.0
+Gregg County (Texas),48183.0,2019.0,0.000215134,0.0,0.0
+Harris County (Texas),48201.0,2019.0,0.000126232,252.0,0.0
+Harrison County (Texas),48203.0,2019.0,0.000181443,227.0,0.0
+Hidalgo County (Texas),48215.0,2019.0,0.000117155,289.0,0.0
+Hood County (Texas),48221.0,2019.0,0.000205017,0.0,0.0
+Hunt County (Texas),48231.0,2019.0,0.000191479,0.0,0.0
+Jefferson County (Texas),48245.0,2019.0,0.000151286,223.0,0.0
+Johnson County (Texas),48251.0,2019.0,0.000166686,0.0,0.0
+Kaufman County (Texas),48257.0,2019.0,0.000132085,156.0,0.0
+Kleberg County (Texas),48273.0,2019.0,0.000216789,284.0,0.0
+Lubbock County (Texas),48303.0,2019.0,0.000155308,330.0,0.0
+McLennan County (Texas),48309.0,2019.0,0.000166765,88.0,0.0
+Maverick County (Texas),48323.0,2019.0,0.000235464,339.0,0.0
+Montgomery County (Texas),48339.0,2019.0,0.000124041,137.0,0.0
+Navarro County (Texas),48349.0,2019.0,0.000193717,151.0,0.0
+Nueces County (Texas),48355.0,2019.0,0.000151483,252.0,0.0
+Orange County (Texas),48361.0,2019.0,0.000136113,240.0,0.0
+Parker County (Texas),48367.0,2019.0,0.000181341,0.0,0.0
+Polk County (Texas),48373.0,2019.0,0.000191816,0.0,0.0
+Potter County (Texas),48375.0,2019.0,0.000202293,340.0,0.0
+Randall County (Texas),48381.0,2019.0,0.000158245,0.0,0.0
+Rockwall County (Texas),48397.0,2019.0,0.000147171,0.0,0.0
+Smith County (Texas),48423.0,2019.0,0.000183949,0.0,0.0
+Tarrant County (Texas),48439.0,2019.0,0.000122975,202.0,0.0
+Travis County (Texas),48453.0,2019.0,8.52e-05,255.0,0.0
+Victoria County (Texas),48469.0,2019.0,0.000221391,0.0,0.0
+Webb County (Texas),48479.0,2019.0,0.000121755,290.0,1.0
+Box Elder County (Utah),49003.0,2019.0,0.000171679,42.0,0.0
+Cache County (Utah),49005.0,2019.0,9.98e-05,106.0,0.0
+Carbon County (Utah),49007.0,2019.0,0.000317939,0.0,0.0
+Davis County (Utah),49011.0,2019.0,0.000113016,77.0,0.0
+Duchesne County (Utah),49013.0,2019.0,0.000202093,53.0,0.0
+Garfield County (Utah),49017.0,2019.0,0.000255945,31.0,0.0
+Iron County (Utah),49021.0,2019.0,0.000171978,50.0,0.0
+Salt Lake County (Utah),49035.0,2019.0,0.000103705,109.0,4.0
+San Juan County (Utah),49037.0,2019.0,0.000196432,0.0,0.0
+Tooele County (Utah),49045.0,2019.0,0.000124864,79.0,0.0
+Uintah County (Utah),49047.0,2019.0,0.000185594,23.0,0.0
+Utah County (Utah),49049.0,2019.0,9.3e-05,93.0,1.0
+Washington County (Utah),49053.0,2019.0,0.000207082,33.0,0.0
+Wayne County (Utah),49055.0,2019.0,0.000204245,109.0,0.0
+Weber County (Utah),49057.0,2019.0,0.00015731,80.0,0.0
+Bennington County (Vermont),50003.0,2019.0,0.00022566,118.0,0.0
+Chittenden County (Vermont),50007.0,2019.0,0.000105066,160.0,0.0
+Rutland County (Vermont),50021.0,2019.0,0.000166562,203.0,1.0
+Windham County (Vermont),50025.0,2019.0,0.000181529,104.0,0.0
+Arlington County (Virginia),51013.0,2019.0,0.000113184,58.0,0.0
+Caroline County (Virginia),51033.0,2019.0,0.000165192,0.0,0.0
+Carroll County (Virginia),51035.0,2019.0,0.000406477,0.0,61.0
+Charles City County (Virginia),51036.0,2019.0,0.000250309,70.0,0.0
+Chesterfield County (Virginia),51041.0,2019.0,0.000140915,71.0,0.0
+Fauquier County (Virginia),51061.0,2019.0,0.000189911,0.0,0.0
+Frederick County (Virginia),51069.0,2019.0,0.000189032,229.0,0.0
+Giles County (Virginia),51071.0,2019.0,0.00026682,0.0,0.0
+Hanover County (Virginia),51085.0,2019.0,0.000164415,0.0,0.0
+Henrico County (Virginia),51087.0,2019.0,0.000187364,64.0,0.0
+Loudoun County (Virginia),51107.0,2019.0,6.97e-05,57.0,0.0
+Madison County (Virginia),51113.0,2019.0,0.000230352,36.0,0.0
+Prince Edward County (Virginia),51147.0,2019.0,0.000183542,0.0,0.0
+Roanoke County (Virginia),51161.0,2019.0,0.000207219,172.0,0.0
+Stafford County (Virginia),51179.0,2019.0,0.000118664,0.0,20.0
+Wythe County (Virginia),51197.0,2019.0,0.000328813,0.0,0.0
+Bristol City (Virginia),51520.0,2019.0,0.0005214,117.0,0.0
+Hampton City (Virginia),51650.0,2019.0,0.000159263,182.0,0.0
+Hopewell City (Virginia),51670.0,2019.0,0.000221976,0.0,57.0
+Lynchburg City (Virginia),51680.0,2019.0,0.000224252,108.0,0.0
+Norfolk City (Virginia),51710.0,2019.0,0.000123013,111.0,1.0
+Richmond City (Virginia),51760.0,2019.0,0.000133043,300.0,0.0
+Salem City (Virginia),51775.0,2019.0,0.0003601,118.0,0.0
+Suffolk City (Virginia),51800.0,2019.0,0.000144888,0.0,0.0
+Virginia Beach City (Virginia),51810.0,2019.0,0.000108937,115.0,0.0
+Winchester City (Virginia),51840.0,2019.0,0.000187387,0.0,57.0
+Fairfax County (Virginia),51059.0,2019.0,0.000110852,249.0,0.0
+Rockingham County (Virginia),51165.0,2019.0,0.000140459,61.0,0.0
+Prince William County (Virginia),51153.0,2019.0,0.000103721,0.0,0.0
+Rockbridge County (Virginia),51163.0,2019.0,0.000266063,47.0,0.0
+Albemarle County (Virginia),51003.0,2019.0,0.000162483,64.0,0.0
+Adams County (Washington),53001.0,2019.0,0.000108511,360.0,0.0
+Asotin County (Washington),53003.0,2019.0,0.000278465,357.0,0.0
+Benton County (Washington),53005.0,2019.0,0.000128225,199.0,13.0
+Chelan County (Washington),53007.0,2019.0,0.00015872,365.0,0.0
+Clallam County (Washington),53009.0,2019.0,0.000261632,199.0,0.0
+Clark County (Washington),53011.0,2019.0,0.000124888,237.0,0.0
+Columbia County (Washington),53013.0,2019.0,0.000207325,365.0,0.0
+Cowlitz County (Washington),53015.0,2019.0,0.000191787,360.0,0.0
+Franklin County (Washington),53021.0,2019.0,8.13e-05,333.0,0.0
+Garfield County (Washington),53023.0,2019.0,0.000241467,358.0,0.0
+Grant County (Washington),53025.0,2019.0,0.000145768,365.0,0.0
+Grays Harbor County (Washington),53027.0,2019.0,0.000238446,352.0,0.0
+Jefferson County (Washington),53031.0,2019.0,0.000232208,365.0,0.0
+King County (Washington),53033.0,2019.0,0.000119646,302.0,0.0
+Kitsap County (Washington),53035.0,2019.0,0.000195412,340.0,0.0
+Kittitas County (Washington),53037.0,2019.0,0.000137675,365.0,0.0
+Klickitat County (Washington),53039.0,2019.0,0.00012045,365.0,0.0
+Lewis County (Washington),53041.0,2019.0,0.000204585,365.0,0.0
+Mason County (Washington),53045.0,2019.0,0.000192618,361.0,0.0
+Okanogan County (Washington),53047.0,2019.0,0.000197349,365.0,0.0
+Pierce County (Washington),53053.0,2019.0,0.000155967,226.0,0.0
+San Juan County (Washington),53055.0,2019.0,0.000209856,112.0,0.0
+Skagit County (Washington),53057.0,2019.0,0.00020162,302.0,0.0
+Snohomish County (Washington),53061.0,2019.0,0.000134569,364.0,0.0
+Spokane County (Washington),53063.0,2019.0,0.000185786,218.0,16.0
+Stevens County (Washington),53065.0,2019.0,0.000204399,335.0,30.0
+Thurston County (Washington),53067.0,2019.0,0.000161979,231.0,0.0
+Walla Walla County (Washington),53071.0,2019.0,0.000189999,235.0,130.0
+Whatcom County (Washington),53073.0,2019.0,0.000166006,236.0,0.0
+Whitman County (Washington),53075.0,2019.0,0.000123894,365.0,0.0
+Yakima County (Washington),53077.0,2019.0,0.000152595,363.0,2.0
+Berkeley County (West Virginia),54003.0,2019.0,0.000176141,77.0,0.0
+Brooke County (West Virginia),54009.0,2019.0,0.000666617,119.0,241.0
+Cabell County (West Virginia),54011.0,2019.0,0.000284174,76.0,0.0
+Gilmer County (West Virginia),54021.0,2019.0,0.000304789,0.0,0.0
+Greenbrier County (West Virginia),54025.0,2019.0,0.000324611,0.0,0.0
+Hancock County (West Virginia),54029.0,2019.0,0.000621188,48.0,39.0
+Harrison County (West Virginia),54033.0,2019.0,0.000246529,111.0,0.0
+Kanawha County (West Virginia),54039.0,2019.0,0.00031773,143.0,0.0
+Marion County (West Virginia),54049.0,2019.0,0.000246876,99.0,0.0
+Marshall County (West Virginia),54051.0,2019.0,0.000494557,118.0,0.0
+Monongalia County (West Virginia),54061.0,2019.0,0.000142516,77.0,0.0
+Ohio County (West Virginia),54069.0,2019.0,0.000472574,72.0,0.0
+Tucker County (West Virginia),54093.0,2019.0,0.000282574,12.0,0.0
+Wood County (West Virginia),54107.0,2019.0,0.000304887,66.0,0.0
+Ashland County (Wisconsin),55003.0,2019.0,0.000320565,101.0,0.0
+Brown County (Wisconsin),55009.0,2019.0,0.000145725,241.0,0.0
+Columbia County (Wisconsin),55021.0,2019.0,0.000161559,0.0,0.0
+Dane County (Wisconsin),55025.0,2019.0,0.000110144,254.0,0.0
+Dodge County (Wisconsin),55027.0,2019.0,0.000223645,156.0,0.0
+Door County (Wisconsin),55029.0,2019.0,0.000239199,0.0,0.0
+Eau Claire County (Wisconsin),55035.0,2019.0,0.000158534,242.0,0.0
+Fond du Lac County (Wisconsin),55039.0,2019.0,0.00018073,0.0,0.0
+Forest County (Wisconsin),55041.0,2019.0,0.000234667,111.0,0.0
+Grant County (Wisconsin),55043.0,2019.0,0.00020924,365.0,0.0
+Jefferson County (Wisconsin),55055.0,2019.0,0.000143986,0.0,0.0
+Kenosha County (Wisconsin),55059.0,2019.0,0.000190476,175.0,0.0
+Kewaunee County (Wisconsin),55061.0,2019.0,0.000191705,0.0,0.0
+La Crosse County (Wisconsin),55063.0,2019.0,0.000174008,218.0,0.0
+Manitowoc County (Wisconsin),55071.0,2019.0,0.000245336,0.0,0.0
+Marathon County (Wisconsin),55073.0,2019.0,0.000173149,0.0,0.0
+Milwaukee County (Wisconsin),55079.0,2019.0,0.000147939,239.0,2.0
+Outagamie County (Wisconsin),55087.0,2019.0,0.000168038,250.0,0.0
+Ozaukee County (Wisconsin),55089.0,2019.0,0.000154139,190.0,0.0
+Racine County (Wisconsin),55101.0,2019.0,0.000218814,0.0,0.0
+Rock County (Wisconsin),55105.0,2019.0,0.000180416,0.0,0.0
+Sauk County (Wisconsin),55111.0,2019.0,0.000211422,241.0,0.0
+Sheboygan County (Wisconsin),55117.0,2019.0,0.000217975,0.0,0.0
+Taylor County (Wisconsin),55119.0,2019.0,0.000167694,143.0,0.0
+Vilas County (Wisconsin),55125.0,2019.0,0.000215929,206.0,0.0
+Walworth County (Wisconsin),55127.0,2019.0,0.00019602,0.0,0.0
+Waukesha County (Wisconsin),55133.0,2019.0,0.000200656,284.0,0.0
+Albany County (Wyoming),56001.0,2019.0,0.000129743,4.0,34.0
+Big Horn County (Wyoming),56003.0,2019.0,0.000301523,0.0,0.0
+Campbell County (Wyoming),56005.0,2019.0,0.000105593,21.0,128.0
+Carbon County (Wyoming),56007.0,2019.0,0.000246831,0.0,0.0
+Converse County (Wyoming),56009.0,2019.0,0.000190839,10.0,40.0
+Fremont County (Wyoming),56013.0,2019.0,0.000242422,30.0,0.0
+Johnson County (Wyoming),56019.0,2019.0,0.000241053,0.0,7.0
+Laramie County (Wyoming),56021.0,2019.0,0.000181194,25.0,16.0
+Lincoln County (Wyoming),56023.0,2019.0,0.000165201,0.0,365.0
+Natrona County (Wyoming),56025.0,2019.0,0.000205121,6.0,0.0
+Park County (Wyoming),56029.0,2019.0,0.000231919,40.0,3.0
+Platte County (Wyoming),56031.0,2019.0,0.000311247,0.0,60.0
+Sheridan County (Wyoming),56033.0,2019.0,0.000346914,39.0,27.0
