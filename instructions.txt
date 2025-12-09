@@ -124,3 +124,9 @@ hdfs dfs -cat /cw2/raw/aqi_respiratory/AQI_Respiratory_2019_clean.csv | head
 3️⃣ Check table exists
 SHOW TABLES IN cw2;
 
+
+USE cw2;
+
+LOAD DATA INPATH '/cw2/raw/aqi_respiratory/AQI_Respiratory_2019_clean.csv'
+INTO TABLE aqi_respiratory;
+
