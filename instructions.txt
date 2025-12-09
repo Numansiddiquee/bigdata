@@ -82,3 +82,45 @@ GROUP BY location_name
 ORDER BY avg_pm25 DESC
 LIMIT 10;
 
+
+
+
+
+
+
+hdfs dfs -ls /cw2/raw/aqi_respiratory/
+hdfs dfs -mv "/cw2/raw/aqi_respiratory/AQI Respiratory 2019 clean.csv" \
+          "/cw2/raw/aqi_respiratory/AQI_Respiratory_2019_clean.csv"
+
+✅ CAUSE 2 — Wrong Permissions (Very Common on Sandbox)
+
+Hive cannot read the file because of permissions.
+
+✔ FIX: Set correct permission
+hdfs dfs -chmod -R 755 /cw2
+
+
+Or full open permissions (safe in sandbox):
+
+hdfs dfs -chmod -R 777 /cw2
+
+
+Then try loading again:
+
+LOAD DATA INPATH '/cw2/raw/aqi_respiratory/AQI_Respiratory_2019_clean.csv'
+INTO TABLE aqi_respiratory;
+
+
+📌 NOW I NEED THIS FROM YOU
+
+To give you the exact solution, please run these three commands and send me results:
+
+1️⃣ Check file exists
+hdfs dfs -ls /cw2/raw/aqi_respiratory/
+
+2️⃣ Check file contents
+hdfs dfs -cat /cw2/raw/aqi_respiratory/AQI_Respiratory_2019_clean.csv | head
+
+3️⃣ Check table exists
+SHOW TABLES IN cw2;
+
