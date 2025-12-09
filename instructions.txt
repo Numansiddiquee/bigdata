@@ -1,0 +1,84 @@
+Table 1 – AQI & Respiratory Death Rate
+
+CREATE TABLE aqi_respiratory (
+  location_name       STRING,
+  year                INT,
+  resp_death_rate     FLOAT,
+  days_pm25           INT,
+  days_pm10           INT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+TBLPROPERTIES ("skip.header.line.count"="1");
+
+
+
+Load the data:
+LOAD DATA INPATH '/cw2/raw/aqi_respiratory/AQI_Respiratory_2019_clean.csv'
+INTO TABLE aqi_respiratory;
+
+
+Table 2 – Deaths by Air Pollution
+CREATE TABLE deaths_air_pollution (
+  location            STRING,
+  year                INT,
+  sex                 STRING,
+  cause_of_death      STRING,
+  measure             STRING,
+  value               FLOAT,
+  lower_bound         FLOAT,
+  upper_bound         FLOAT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+TBLPROPERTIES ("skip.header.line.count"="1");
+
+
+Load the data:
+LOAD DATA INPATH '/cw2/raw/deaths_air_pollution/deaths_by_air_pollution_clean.csv'
+INTO TABLE deaths_air_pollution;
+
+Quick checks:
+SELECT * FROM aqi_respiratory LIMIT 10;
+
+SELECT * FROM deaths_air_pollution LIMIT 10;
+
+Yearly Average Trend (PM2.5 vs Respiratory Death Rate)
+
+%spark.sql
+USE cw2;
+
+SELECT
+  year,
+  AVG(days_pm25) AS avg_days_pm25,
+  AVG(resp_death_rate) AS avg_resp_death_rate
+FROM aqi_respiratory
+GROUP BY year
+ORDER BY year;
+
+Join Both Datasets (USA-only view)
+%spark.sql
+SELECT
+  a.year,
+  AVG(a.resp_death_rate) AS avg_resp_rate,
+  AVG(d.value) AS avg_pollution_deaths
+FROM aqi_respiratory a
+JOIN deaths_air_pollution d
+  ON a.year = d.year
+WHERE d.location = 'United States'
+GROUP BY a.year
+ORDER BY a.year;
+
+Show Top 10 Worst Locations
+%spark.sql
+SELECT
+  location_name,
+  AVG(resp_death_rate) AS avg_death_rate,
+  AVG(days_pm25) AS avg_pm25
+FROM aqi_respiratory
+GROUP BY location_name
+ORDER BY avg_pm25 DESC
+LIMIT 10;
+
