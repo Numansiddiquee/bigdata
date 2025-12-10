@@ -209,41 +209,91 @@ LIMIT 10;
 
 
 
-Zeppelin Query Screenshot 1 (Filtering High Pollution Counties)
+📌 Query #1
+👉 Correlation between PM2.5 Days and Respiratory Death Rate (After Join)
 
-%sql
-CREATE TABLE high_pm25_counties AS
-SELECT
-    location_name,
-    fips,
-    year,
-    days_pm2_5,
-    resp_death_rate
-FROM aqi_respiratory_2019_clean
-WHERE days_pm2_5 > 50;
-
-
-
+Shows how air pollution exposure relates to respiratory deaths in the same location & year.
 
 %sql
 SELECT
-  CASE
-      WHEN a.days_pm25 < 20 THEN 'Low PM2.5'
-      WHEN a.days_pm25 BETWEEN 20 AND 50 THEN 'Medium PM2.5'
-      ELSE 'High PM2.5'
-  END AS pm25_category,
-  AVG(a.resp_death_rate) AS avg_resp_death_rate,
-  AVG(d.value) AS avg_pollution_death_percent
-FROM aqi_respiratory a
-JOIN deaths_air_pollution d
-    ON a.year = d.year
-WHERE d.location = 'United States'
-  AND d.measure = 'Percent'
-GROUP BY
-  CASE
-      WHEN a.days_pm25 < 20 THEN 'Low PM2.5'
-      WHEN a.days_pm25 BETWEEN 20 AND 50 THEN 'Medium PM2.5'
-      ELSE 'High PM2.5'
-  END;
+    a.location_name AS Location,
+    a.year AS Year,
+    a.Days_PM2_5 AS PM25_Days,
+    a.Resp_Death_Rate AS Respiratory_Death_Rate,
+    b.value AS Air_Pollution_Impact,
+    b.cause_of_death AS Cause_of_Death,
+    b.measure AS Measurement_Type,
+    b.sex AS Sex
+FROM AQI_Respiratory_2019_clean a
+LEFT JOIN deaths_by_air_pollution_clean b
+    ON a.location_name = b.location
+   AND a.year = b.year;
 
+
+📊 Suggested graph: Scatter Plot
+
+X-axis → PM25_Days
+
+Y-axis → Respiratory_Death_Rate
+
+Series → Location (optional)
+
+📌 Query #2
+👉 Respiratory Death Rate vs Air-Pollution % of Deaths
+
+Filter cleaner data using:
+
+Sex = Both
+
+Measurement = Percent of Deaths attributable
+
+Cause = Lower respiratory infections
+
+%sql
+SELECT
+    a.location_name AS Location,
+    a.year AS Year,
+    a.Resp_Death_Rate AS Respiratory_Death_Rate,
+    b.value AS Percent_Deaths_Air_Pollution
+FROM AQI_Respiratory_2019_clean a
+JOIN deaths_by_air_pollution_clean b
+    ON a.location_name = b.location
+   AND a.year = b.year
+WHERE b.sex = 'Both'
+  AND b.measure = 'Percent of Deaths attributable'
+  AND b.cause_of_death = 'Lower respiratory infections';
+
+
+📊 Suggested graph: Scatter or Bar
+
+X-axis → Location
+
+Y-axis → Percent_Deaths_Air_Pollution
+
+📌 Query #3
+👉 Trend: Air-Pollution Death % Over Time by Joined Locations
+
+Helpful for line charts.
+
+%sql
+SELECT
+    a.location_name AS Location,
+    a.year AS Year,
+    b.value AS Air_Pollution_Death_Percent
+FROM AQI_Respiratory_2019_clean a
+JOIN deaths_by_air_pollution_clean b
+    ON a.location_name = b.location
+   AND a.year = b.year
+WHERE b.sex = 'Both'
+  AND b.measure = 'Percent of Deaths attributable'
+ORDER BY Location, Year;
+
+
+📊 Suggested graph: Line Chart
+
+Key column → Location
+
+Group → Location
+
+Values → Air_Pollution_Death_Percent
 
