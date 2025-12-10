@@ -142,7 +142,7 @@ LIMIT 10;
 SELECT
   location_name,
   resp_death_rate
-FROM ai_respiratory_2019_clean
+FROM aqi_respiratory_2019_clean
 ORDER BY resp_death_rate DESC
 LIMIT 10;
 
@@ -153,4 +153,57 @@ SELECT
   days_pm10
 FROM aqi_respiratory_2019_clean
 WHERE days_pm10 IS NOT NULL;
+
+9)
+%sql
+SELECT
+  a.location_name,
+  a.days_pm2_5 AS pm25_days,
+  a.resp_death_rate,
+  d.value AS pollution_death_percentage
+FROM aqi_respiratory_2019_clean a
+JOIN deaths_air_pollution_clean d
+  ON a.year = d.year
+WHERE d.location = 'United States'
+LIMIT 50;
+
+10) Respiratory Death Rate vs PM2.5
+%sql
+SELECT
+  location_name,
+  days_pm2_5 AS pm25,
+  resp_death_rate AS resp_rate
+FROM aqi_respiratory_2019_clean
+WHERE days_pm2_5 IS NOT NULL
+  AND resp_death_rate IS NOT NULL
+LIMIT 500;
+
+11) Top 10 Worst Counties by PM2.5 (Bar Chart)
+%sql
+SELECT
+  location_name,
+  days_pm2_5 AS pm25_days
+FROM aqi_respiratory_2019_clean
+ORDER BY pm25_days DESC
+LIMIT 10;
+
+12) Trend of Pollution-Related Deaths in USA (Line Chart)
+%sql
+SELECT
+  year,
+  AVG(value) AS avg_pollution_deaths
+FROM deaths_air_pollution
+WHERE location = 'United States'
+GROUP BY year
+ORDER BY year;
+
+13) Top 10 Countries With Highest Pollution Deaths (Global Ranking)
+%sql
+SELECT
+  location,
+  AVG(value) AS avg_deaths
+FROM deaths_air_pollution
+GROUP BY location
+ORDER BY avg_deaths DESC
+LIMIT 10;
 
