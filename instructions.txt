@@ -207,3 +207,43 @@ GROUP BY location
 ORDER BY avg_deaths DESC
 LIMIT 10;
 
+
+
+Zeppelin Query Screenshot 1 (Filtering High Pollution Counties)
+
+%sql
+CREATE TABLE high_pm25_counties AS
+SELECT
+    location_name,
+    fips,
+    year,
+    days_pm2_5,
+    resp_death_rate
+FROM aqi_respiratory_2019_clean
+WHERE days_pm2_5 > 50;
+
+
+
+
+%sql
+SELECT
+  CASE
+      WHEN a.days_pm25 < 20 THEN 'Low PM2.5'
+      WHEN a.days_pm25 BETWEEN 20 AND 50 THEN 'Medium PM2.5'
+      ELSE 'High PM2.5'
+  END AS pm25_category,
+  AVG(a.resp_death_rate) AS avg_resp_death_rate,
+  AVG(d.value) AS avg_pollution_death_percent
+FROM aqi_respiratory a
+JOIN deaths_air_pollution d
+    ON a.year = d.year
+WHERE d.location = 'United States'
+  AND d.measure = 'Percent'
+GROUP BY
+  CASE
+      WHEN a.days_pm25 < 20 THEN 'Low PM2.5'
+      WHEN a.days_pm25 BETWEEN 20 AND 50 THEN 'Medium PM2.5'
+      ELSE 'High PM2.5'
+  END;
+
+
