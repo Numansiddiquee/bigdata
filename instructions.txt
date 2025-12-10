@@ -114,13 +114,43 @@ FROM aqi_respiratory
 GROUP BY year
 ORDER BY year;
 
-5)Pollution Deaths Trend
-%spark.sql
+5)Respiratory Death Rate
+%sql
 SELECT
-  year,
-  AVG(value) AS avg_pollution_deaths
-FROM deaths_air_pollution
-WHERE location = 'United States'
-GROUP BY year
-ORDER BY year;
+  location_name,
+  days_pm2_5 AS pm25_days,
+  resp_death_rate AS resp_rate
+FROM aqi_respiratory_2019_clean
+WHERE days_pm2_5 IS NOT NULL
+  AND resp_death_rate IS NOT NULL
+LIMIT 200;
+
+
+
+6)Top 10 Most Polluted Counties (Bar Chart)
+%sql
+SELECT
+  location_name,
+  days_pm2_5 AS pm25_days
+FROM aqi_respiratory_2019_clean
+ORDER BY pm25_days DESC
+LIMIT 10;
+
+
+7) Top 10 Highest Respiratory Death Rate (Bar Chart)
+%sql
+SELECT
+  location_name,
+  resp_death_rate
+FROM ai_respiratory_2019_clean
+ORDER BY resp_death_rate DESC
+LIMIT 10;
+
+
+8) PM10 Trend
+%sql
+SELECT
+  days_pm10
+FROM aqi_respiratory_2019_clean
+WHERE days_pm10 IS NOT NULL;
 
